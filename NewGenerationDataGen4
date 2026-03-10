@@ -1,0 +1,6 @@
+Название угрозы,Отрасль компании,Коэффициент отрасли,Кол-во сотрудников,Регион,Коэффициент региона,Вероятность возникновения угрозы,Коэффициент отрасли_mean_industry
+Social Engineering,Professional,0.3,30,EMEA,0.25,4,0.3
+Denial of Service (DoS),Finance,0.3,80,APAC,0.25,3,0.3
+Basic Web-API Attacks,Real Estate,0.6,100,NA,0.21,5,0.6
+Social Engineering,Public Administration,0.2,90,APAC,0.25,2,0.2
+Social Engineering,Utilities,0.2,400,EMEA,0.25,4,0.2

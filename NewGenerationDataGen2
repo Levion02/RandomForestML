@@ -1,0 +1,2001 @@
+Название угрозы,Отрасль компании,Кол-во сотрудников,Регион,Вероятность возникновения угрозы
+Privilege Misuse,Manufacturing,2108,APAC,5
+Privilege Misuse,Accommodation,268,NA,4
+System Intrusion,Entertainment,1364,APAC,3
+Miscellaneous Errors,Entertainment,1816,APAC,5
+System Intrusion,Real Estate,1987,EMEA,4
+Social Engineering,Transportation,477,LAC,4
+Miscellaneous Errors,Agriculture,1685,EMEA,5
+Miscellaneous Errors,Entertainment,1040,APAC,1
+Lost and Stolen Assets,Public Administration,198,EMEA,3
+System Intrusion,Retail,503,APAC,3
+Social Engineering,Transportation,1444,APAC,1
+Miscellaneous Errors,Manufacturing,1356,NA,2
+Lost and Stolen Assets,Finance,1612,LAC,2
+Social Engineering,Retail,389,EMEA,4
+Lost and Stolen Assets,Mining,265,NA,5
+Lost and Stolen Assets,Transportation,232,EMEA,2
+Basic Web-API Attacks,Transportation,1058,EMEA,4
+Denial of Service (DoS),Utilities,838,EMEA,2
+System Intrusion,Utilities,2088,NA,5
+Miscellaneous Errors,Agriculture,1037,NA,5
+Social Engineering,Accommodation,485,EMEA,3
+Privilege Misuse,Wholesale Trade,2916,NA,2
+Social Engineering,Real Estate,2139,APAC,5
+Denial of Service (DoS),Retail,1814,NA,1
+System Intrusion,Transportation,327,NA,3
+Basic Web-API Attacks,Public Administration,134,EMEA,4
+Privilege Misuse,Retail,360,NA,2
+System Intrusion,Utilities,1679,APAC,1
+System Intrusion,Public Administration,1885,EMEA,2
+Miscellaneous Errors,Information,2006,APAC,4
+Social Engineering,Agriculture,1563,APAC,2
+Basic Web-API Attacks,Accommodation,2594,EMEA,1
+Lost and Stolen Assets,Retail,1780,APAC,5
+Privilege Misuse,Public Administration,558,LAC,3
+System Intrusion,Wholesale Trade,959,APAC,1
+Basic Web-API Attacks,Transportation,1558,APAC,2
+Miscellaneous Errors,Public Administration,825,APAC,2
+System Intrusion,Accommodation,2215,EMEA,5
+Basic Web-API Attacks,Entertainment,917,NA,5
+Basic Web-API Attacks,Healthcare,504,APAC,1
+Lost and Stolen Assets,Utilities,1448,EMEA,3
+Miscellaneous Errors,Construction,478,LAC,4
+System Intrusion,Transportation,846,EMEA,3
+System Intrusion,Retail,2115,APAC,4
+Miscellaneous Errors,Public Administration,1710,EMEA,2
+Miscellaneous Errors,Information,266,EMEA,2
+Miscellaneous Errors,Healthcare,461,EMEA,5
+Social Engineering,Accommodation,2350,EMEA,5
+Privilege Misuse,Wholesale Trade,1075,NA,2
+System Intrusion,Real Estate,286,NA,5
+Basic Web-API Attacks,Public Administration,852,EMEA,4
+Social Engineering,Transportation,2962,NA,5
+Denial of Service (DoS),Information,552,EMEA,3
+Privilege Misuse,Transportation,1968,EMEA,3
+System Intrusion,Administrative,1073,EMEA,5
+Lost and Stolen Assets,Utilities,2082,NA,3
+Social Engineering,Finance,451,NA,4
+Social Engineering,Entertainment,102,EMEA,2
+Denial of Service (DoS),Real Estate,1562,NA,3
+Miscellaneous Errors,Public Administration,2338,EMEA,4
+System Intrusion,Utilities,2590,NA,5
+Basic Web-API Attacks,Utilities,1026,EMEA,3
+Privilege Misuse,Transportation,2915,APAC,1
+Basic Web-API Attacks,Utilities,1051,EMEA,3
+Social Engineering,Entertainment,2898,APAC,2
+System Intrusion,Retail,2710,NA,1
+Lost and Stolen Assets,Finance,1210,APAC,1
+Privilege Misuse,Construction,2443,APAC,4
+Denial of Service (DoS),Accommodation,2766,APAC,3
+Lost and Stolen Assets,Utilities,2120,EMEA,4
+Privilege Misuse,Entertainment,1379,APAC,5
+Denial of Service (DoS),Public Administration,2341,NA,3
+Basic Web-API Attacks,Entertainment,885,NA,3
+Social Engineering,Utilities,2767,EMEA,4
+System Intrusion,Public Administration,1773,APAC,3
+Basic Web-API Attacks,Information,1815,NA,2
+Basic Web-API Attacks,Healthcare,2927,EMEA,5
+Basic Web-API Attacks,Utilities,984,APAC,5
+Privilege Misuse,Utilities,2263,NA,1
+Basic Web-API Attacks,Accommodation,1264,NA,4
+Miscellaneous Errors,Wholesale Trade,2423,APAC,3
+Lost and Stolen Assets,Finance,1162,NA,4
+Miscellaneous Errors,Utilities,306,EMEA,1
+Lost and Stolen Assets,Utilities,2710,EMEA,4
+Social Engineering,Entertainment,2826,NA,3
+Miscellaneous Errors,Professional,514,NA,5
+Basic Web-API Attacks,Real Estate,2596,EMEA,5
+Lost and Stolen Assets,Transportation,2468,NA,3
+System Intrusion,Public Administration,2427,EMEA,2
+System Intrusion,Wholesale Trade,2254,NA,2
+Social Engineering,Healthcare,1652,APAC,3
+Miscellaneous Errors,Administrative,2256,NA,4
+Privilege Misuse,Finance,2024,NA,1
+System Intrusion,Transportation,2133,EMEA,4
+Denial of Service (DoS),Transportation,2435,EMEA,5
+Denial of Service (DoS),Healthcare,2022,NA,3
+Miscellaneous Errors,Entertainment,2170,NA,4
+Lost and Stolen Assets,Mining,1132,NA,2
+Denial of Service (DoS),Transportation,1074,NA,3
+System Intrusion,Real Estate,994,LAC,4
+Basic Web-API Attacks,Accommodation,2937,EMEA,2
+Social Engineering,Agriculture,1635,APAC,3
+Privilege Misuse,Transportation,1187,EMEA,4
+Denial of Service (DoS),Healthcare,2345,APAC,5
+Denial of Service (DoS),Transportation,277,APAC,2
+Privilege Misuse,Utilities,1378,NA,4
+Miscellaneous Errors,Wholesale Trade,1107,APAC,5
+Miscellaneous Errors,Utilities,1088,EMEA,5
+Privilege Misuse,Construction,1251,NA,2
+Lost and Stolen Assets,Entertainment,490,EMEA,3
+Lost and Stolen Assets,Finance,429,NA,1
+Miscellaneous Errors,Mining,2586,APAC,4
+Denial of Service (DoS),Transportation,1127,EMEA,5
+Social Engineering,Utilities,1132,APAC,3
+Lost and Stolen Assets,Manufacturing,379,NA,5
+Miscellaneous Errors,Professional,1575,EMEA,3
+Privilege Misuse,Administrative,2035,APAC,1
+System Intrusion,Utilities,1356,EMEA,1
+Privilege Misuse,Agriculture,209,NA,3
+Lost and Stolen Assets,Utilities,2283,NA,2
+Miscellaneous Errors,Information,1946,EMEA,2
+Miscellaneous Errors,Public Administration,2695,LAC,3
+Miscellaneous Errors,Information,1466,NA,5
+Basic Web-API Attacks,Accommodation,921,EMEA,2
+Basic Web-API Attacks,Utilities,1131,EMEA,1
+Denial of Service (DoS),Utilities,369,APAC,3
+Basic Web-API Attacks,Entertainment,180,EMEA,4
+System Intrusion,Information,1723,EMEA,4
+Social Engineering,Agriculture,2742,NA,1
+Social Engineering,Manufacturing,2240,APAC,2
+Privilege Misuse,Accommodation,1624,NA,4
+Denial of Service (DoS),Information,1414,NA,2
+Social Engineering,Retail,2184,NA,1
+Miscellaneous Errors,Utilities,2456,APAC,2
+Miscellaneous Errors,Transportation,1670,EMEA,4
+Denial of Service (DoS),Accommodation,1958,NA,5
+Miscellaneous Errors,Public Administration,2007,EMEA,4
+Basic Web-API Attacks,Healthcare,2236,EMEA,4
+Basic Web-API Attacks,Construction,1303,EMEA,3
+System Intrusion,Entertainment,930,APAC,5
+Lost and Stolen Assets,Real Estate,2859,NA,5
+Privilege Misuse,Public Administration,1968,EMEA,5
+Basic Web-API Attacks,Retail,131,NA,4
+Miscellaneous Errors,Agriculture,2396,LAC,4
+Privilege Misuse,Agriculture,2885,EMEA,4
+Miscellaneous Errors,Utilities,367,EMEA,3
+Lost and Stolen Assets,Finance,2032,LAC,1
+Social Engineering,Accommodation,1694,EMEA,2
+Denial of Service (DoS),Manufacturing,1898,APAC,2
+System Intrusion,Transportation,2372,APAC,3
+Lost and Stolen Assets,Utilities,1051,APAC,2
+Lost and Stolen Assets,Real Estate,2413,NA,3
+Social Engineering,Agriculture,2760,NA,3
+Denial of Service (DoS),Public Administration,454,LAC,2
+Social Engineering,Public Administration,2277,APAC,1
+Privilege Misuse,Wholesale Trade,2596,EMEA,5
+System Intrusion,Manufacturing,1393,NA,4
+Privilege Misuse,Utilities,825,NA,4
+Social Engineering,Entertainment,1159,EMEA,2
+Basic Web-API Attacks,Public Administration,1853,APAC,4
+System Intrusion,Retail,630,NA,5
+Denial of Service (DoS),Real Estate,2701,EMEA,2
+Denial of Service (DoS),Wholesale Trade,1345,EMEA,4
+Denial of Service (DoS),Transportation,1762,NA,1
+Denial of Service (DoS),Public Administration,847,LAC,1
+Denial of Service (DoS),Accommodation,994,EMEA,3
+Basic Web-API Attacks,Transportation,2807,EMEA,3
+Privilege Misuse,Wholesale Trade,1050,APAC,1
+Denial of Service (DoS),Real Estate,1605,APAC,3
+Basic Web-API Attacks,Transportation,2061,EMEA,5
+Lost and Stolen Assets,Public Administration,1793,EMEA,4
+System Intrusion,Administrative,1989,NA,5
+Social Engineering,Mining,1633,NA,2
+Basic Web-API Attacks,Public Administration,316,APAC,4
+System Intrusion,Retail,2079,EMEA,5
+Privilege Misuse,Transportation,1795,APAC,2
+Basic Web-API Attacks,Transportation,2831,NA,5
+Miscellaneous Errors,Manufacturing,2823,NA,5
+Denial of Service (DoS),Transportation,434,APAC,5
+System Intrusion,Professional,2043,APAC,3
+System Intrusion,Real Estate,2848,APAC,5
+Lost and Stolen Assets,Retail,425,NA,5
+Basic Web-API Attacks,Public Administration,1250,NA,4
+System Intrusion,Healthcare,867,LAC,5
+Social Engineering,Transportation,746,EMEA,3
+Denial of Service (DoS),Healthcare,1786,NA,4
+Social Engineering,Retail,493,EMEA,3
+Lost and Stolen Assets,Transportation,909,APAC,2
+Denial of Service (DoS),Transportation,172,APAC,3
+Denial of Service (DoS),Retail,2766,EMEA,3
+Basic Web-API Attacks,Professional,2055,EMEA,5
+Privilege Misuse,Professional,2049,EMEA,1
+Social Engineering,Public Administration,685,APAC,4
+Lost and Stolen Assets,Transportation,878,EMEA,3
+Social Engineering,Utilities,1791,NA,2
+Denial of Service (DoS),Agriculture,1914,EMEA,1
+System Intrusion,Utilities,1252,NA,2
+Denial of Service (DoS),Professional,1732,EMEA,3
+Privilege Misuse,Transportation,2219,EMEA,3
+Privilege Misuse,Transportation,2066,APAC,2
+Miscellaneous Errors,Utilities,1541,EMEA,3
+Denial of Service (DoS),Information,1048,EMEA,1
+Social Engineering,Retail,2608,NA,2
+System Intrusion,Finance,186,APAC,1
+Denial of Service (DoS),Information,2219,NA,4
+Lost and Stolen Assets,Healthcare,835,EMEA,4
+Basic Web-API Attacks,Information,725,NA,4
+Privilege Misuse,Mining,1834,NA,5
+Social Engineering,Transportation,984,NA,5
+Miscellaneous Errors,Entertainment,2563,NA,2
+Denial of Service (DoS),Retail,2451,NA,3
+System Intrusion,Transportation,558,APAC,3
+Denial of Service (DoS),Mining,2844,NA,3
+Miscellaneous Errors,Accommodation,1487,APAC,4
+System Intrusion,Transportation,1572,EMEA,2
+Social Engineering,Public Administration,1145,NA,2
+Miscellaneous Errors,Retail,2570,EMEA,2
+Basic Web-API Attacks,Manufacturing,1860,NA,4
+Miscellaneous Errors,Utilities,292,APAC,5
+Basic Web-API Attacks,Transportation,2290,APAC,5
+Privilege Misuse,Public Administration,1903,APAC,1
+Basic Web-API Attacks,Administrative,1982,LAC,4
+Social Engineering,Utilities,508,NA,3
+Privilege Misuse,Real Estate,2987,APAC,3
+Lost and Stolen Assets,Public Administration,1831,LAC,4
+Miscellaneous Errors,Healthcare,825,NA,4
+Social Engineering,Public Administration,2267,APAC,4
+Lost and Stolen Assets,Real Estate,1683,APAC,1
+Lost and Stolen Assets,Public Administration,640,EMEA,3
+Privilege Misuse,Transportation,1251,APAC,3
+Miscellaneous Errors,Transportation,1240,APAC,2
+Denial of Service (DoS),Public Administration,2407,EMEA,4
+Social Engineering,Public Administration,269,NA,2
+Miscellaneous Errors,Transportation,328,EMEA,3
+System Intrusion,Retail,429,LAC,4
+Lost and Stolen Assets,Transportation,508,APAC,2
+Social Engineering,Administrative,2227,APAC,1
+Basic Web-API Attacks,Mining,1064,NA,5
+Basic Web-API Attacks,Information,258,APAC,4
+Lost and Stolen Assets,Healthcare,1787,APAC,5
+Miscellaneous Errors,Utilities,364,NA,3
+System Intrusion,Transportation,1600,NA,4
+Miscellaneous Errors,Retail,2460,EMEA,2
+Social Engineering,Healthcare,1284,NA,2
+Privilege Misuse,Wholesale Trade,2121,EMEA,4
+Lost and Stolen Assets,Information,1697,NA,5
+Privilege Misuse,Accommodation,745,APAC,2
+Denial of Service (DoS),Utilities,233,EMEA,4
+Lost and Stolen Assets,Real Estate,553,NA,2
+Privilege Misuse,Agriculture,2614,APAC,5
+Social Engineering,Real Estate,1129,EMEA,5
+Miscellaneous Errors,Accommodation,2565,APAC,5
+Basic Web-API Attacks,Entertainment,2772,NA,2
+Miscellaneous Errors,Public Administration,2435,EMEA,2
+System Intrusion,Finance,1124,NA,4
+Social Engineering,Retail,133,EMEA,1
+Privilege Misuse,Accommodation,1264,APAC,4
+Denial of Service (DoS),Mining,833,NA,2
+System Intrusion,Finance,569,APAC,1
+Social Engineering,Retail,873,APAC,5
+Privilege Misuse,Utilities,2186,EMEA,3
+Denial of Service (DoS),Retail,2653,NA,1
+Privilege Misuse,Utilities,2316,EMEA,3
+Basic Web-API Attacks,Manufacturing,2209,EMEA,5
+Basic Web-API Attacks,Retail,511,APAC,3
+Social Engineering,Transportation,569,APAC,1
+Social Engineering,Mining,1450,NA,3
+Basic Web-API Attacks,Transportation,1792,NA,1
+Basic Web-API Attacks,Public Administration,914,EMEA,5
+Lost and Stolen Assets,Accommodation,690,EMEA,2
+System Intrusion,Wholesale Trade,1134,EMEA,1
+Social Engineering,Transportation,1809,EMEA,4
+Basic Web-API Attacks,Finance,1271,NA,3
+System Intrusion,Agriculture,1832,EMEA,3
+Lost and Stolen Assets,Transportation,1253,APAC,1
+Basic Web-API Attacks,Real Estate,241,EMEA,3
+Basic Web-API Attacks,Retail,2508,NA,3
+Privilege Misuse,Construction,1156,EMEA,2
+Basic Web-API Attacks,Healthcare,2479,EMEA,2
+Social Engineering,Public Administration,553,EMEA,5
+Denial of Service (DoS),Wholesale Trade,930,NA,1
+System Intrusion,Transportation,2801,EMEA,3
+Miscellaneous Errors,Manufacturing,1765,APAC,2
+Basic Web-API Attacks,Finance,2028,EMEA,5
+Privilege Misuse,Agriculture,1327,EMEA,1
+System Intrusion,Professional,1292,NA,4
+Miscellaneous Errors,Entertainment,1256,EMEA,3
+System Intrusion,Utilities,1842,NA,3
+Lost and Stolen Assets,Transportation,472,APAC,2
+Miscellaneous Errors,Transportation,245,APAC,3
+Social Engineering,Information,174,NA,4
+Social Engineering,Healthcare,2168,EMEA,4
+Social Engineering,Retail,970,APAC,4
+System Intrusion,Retail,783,EMEA,5
+System Intrusion,Retail,1762,APAC,3
+Basic Web-API Attacks,Finance,2997,EMEA,2
+Lost and Stolen Assets,Accommodation,2596,EMEA,3
+Lost and Stolen Assets,Utilities,1066,APAC,5
+Basic Web-API Attacks,Utilities,2872,NA,2
+System Intrusion,Information,1880,EMEA,2
+Miscellaneous Errors,Real Estate,913,APAC,3
+Basic Web-API Attacks,Real Estate,428,NA,1
+Lost and Stolen Assets,Construction,2446,NA,1
+Denial of Service (DoS),Utilities,1166,APAC,3
+Basic Web-API Attacks,Real Estate,2937,APAC,3
+Privilege Misuse,Construction,2202,APAC,5
+Privilege Misuse,Retail,1677,NA,4
+System Intrusion,Information,1755,APAC,1
+Lost and Stolen Assets,Public Administration,930,NA,5
+Social Engineering,Professional,1740,LAC,2
+Denial of Service (DoS),Finance,722,APAC,3
+Denial of Service (DoS),Transportation,2269,APAC,5
+Lost and Stolen Assets,Administrative,2111,NA,1
+Miscellaneous Errors,Transportation,1221,EMEA,5
+Denial of Service (DoS),Agriculture,1949,EMEA,2
+Basic Web-API Attacks,Finance,341,EMEA,2
+Basic Web-API Attacks,Information,230,EMEA,2
+Basic Web-API Attacks,Utilities,1741,NA,3
+Social Engineering,Transportation,676,EMEA,5
+Social Engineering,Real Estate,1778,EMEA,2
+Denial of Service (DoS),Finance,2490,NA,1
+Basic Web-API Attacks,Transportation,2443,APAC,3
+Privilege Misuse,Transportation,380,APAC,2
+Miscellaneous Errors,Transportation,2603,EMEA,4
+Privilege Misuse,Transportation,753,EMEA,3
+Denial of Service (DoS),Utilities,2448,NA,2
+System Intrusion,Retail,1776,EMEA,3
+Denial of Service (DoS),Public Administration,2290,NA,4
+Miscellaneous Errors,Entertainment,1927,EMEA,5
+System Intrusion,Mining,1463,NA,5
+Miscellaneous Errors,Real Estate,2440,EMEA,2
+Privilege Misuse,Manufacturing,123,EMEA,1
+Denial of Service (DoS),Retail,1547,APAC,2
+Social Engineering,Utilities,702,EMEA,3
+Privilege Misuse,Transportation,2192,LAC,5
+Denial of Service (DoS),Transportation,2471,APAC,1
+Denial of Service (DoS),Public Administration,2025,EMEA,2
+Social Engineering,Utilities,2003,NA,4
+System Intrusion,Public Administration,144,NA,4
+Lost and Stolen Assets,Transportation,2342,EMEA,1
+Denial of Service (DoS),Utilities,1035,EMEA,3
+Lost and Stolen Assets,Retail,1543,NA,4
+Lost and Stolen Assets,Transportation,1562,NA,1
+System Intrusion,Public Administration,2736,EMEA,3
+Basic Web-API Attacks,Public Administration,293,NA,2
+Basic Web-API Attacks,Finance,2743,NA,1
+System Intrusion,Agriculture,566,LAC,2
+Social Engineering,Transportation,195,EMEA,5
+Privilege Misuse,Administrative,951,NA,1
+Basic Web-API Attacks,Transportation,1875,EMEA,5
+Miscellaneous Errors,Healthcare,113,LAC,1
+Miscellaneous Errors,Finance,881,NA,4
+Social Engineering,Accommodation,1788,EMEA,4
+Denial of Service (DoS),Entertainment,1776,NA,5
+Basic Web-API Attacks,Public Administration,552,LAC,2
+Lost and Stolen Assets,Mining,963,NA,3
+Social Engineering,Public Administration,500,NA,3
+System Intrusion,Utilities,259,NA,4
+Lost and Stolen Assets,Utilities,1516,APAC,3
+Denial of Service (DoS),Manufacturing,594,NA,1
+Social Engineering,Wholesale Trade,2592,EMEA,3
+System Intrusion,Finance,1423,APAC,1
+Privilege Misuse,Mining,870,EMEA,5
+Social Engineering,Retail,927,EMEA,2
+System Intrusion,Entertainment,2433,EMEA,5
+Social Engineering,Transportation,2244,NA,4
+Lost and Stolen Assets,Construction,1735,APAC,4
+Social Engineering,Retail,1669,NA,4
+Miscellaneous Errors,Finance,1931,APAC,4
+System Intrusion,Wholesale Trade,657,APAC,3
+System Intrusion,Real Estate,326,NA,1
+Lost and Stolen Assets,Entertainment,2762,EMEA,1
+Basic Web-API Attacks,Entertainment,886,APAC,4
+Lost and Stolen Assets,Transportation,2910,EMEA,5
+Miscellaneous Errors,Transportation,1406,NA,3
+Denial of Service (DoS),Retail,1307,EMEA,4
+Basic Web-API Attacks,Utilities,2135,APAC,1
+System Intrusion,Real Estate,946,NA,1
+Social Engineering,Healthcare,2626,APAC,4
+System Intrusion,Transportation,289,EMEA,2
+Lost and Stolen Assets,Transportation,2402,APAC,3
+Basic Web-API Attacks,Real Estate,351,APAC,3
+System Intrusion,Wholesale Trade,793,LAC,2
+System Intrusion,Utilities,883,LAC,1
+Basic Web-API Attacks,Utilities,1280,NA,4
+System Intrusion,Entertainment,641,APAC,4
+System Intrusion,Public Administration,1651,APAC,1
+Basic Web-API Attacks,Real Estate,1598,EMEA,1
+Denial of Service (DoS),Transportation,2163,APAC,3
+Denial of Service (DoS),Accommodation,776,APAC,4
+Social Engineering,Information,2064,LAC,1
+System Intrusion,Transportation,2815,APAC,3
+Lost and Stolen Assets,Professional,2852,NA,2
+System Intrusion,Wholesale Trade,950,APAC,5
+Social Engineering,Manufacturing,1103,NA,1
+System Intrusion,Utilities,650,APAC,3
+Lost and Stolen Assets,Transportation,1506,APAC,5
+System Intrusion,Accommodation,1041,APAC,1
+Social Engineering,Finance,1801,EMEA,2
+Basic Web-API Attacks,Entertainment,868,APAC,1
+Basic Web-API Attacks,Transportation,2518,APAC,5
+Denial of Service (DoS),Public Administration,1144,NA,3
+Lost and Stolen Assets,Wholesale Trade,328,NA,5
+Privilege Misuse,Wholesale Trade,2987,NA,3
+Denial of Service (DoS),Transportation,500,NA,5
+Lost and Stolen Assets,Utilities,2485,APAC,3
+Lost and Stolen Assets,Utilities,2872,NA,1
+Lost and Stolen Assets,Retail,2218,NA,1
+Denial of Service (DoS),Transportation,1133,EMEA,1
+Social Engineering,Manufacturing,2419,NA,5
+Miscellaneous Errors,Public Administration,2737,EMEA,4
+System Intrusion,Utilities,950,NA,5
+Privilege Misuse,Construction,2102,NA,5
+Social Engineering,Finance,1201,APAC,1
+Privilege Misuse,Retail,600,NA,5
+System Intrusion,Healthcare,2325,NA,2
+Lost and Stolen Assets,Utilities,1439,EMEA,2
+System Intrusion,Entertainment,1291,EMEA,3
+System Intrusion,Public Administration,2727,EMEA,5
+System Intrusion,Public Administration,351,LAC,4
+Lost and Stolen Assets,Agriculture,1228,EMEA,3
+System Intrusion,Transportation,629,EMEA,5
+Basic Web-API Attacks,Public Administration,2181,LAC,5
+Basic Web-API Attacks,Finance,1237,NA,4
+Miscellaneous Errors,Healthcare,2820,NA,4
+Privilege Misuse,Retail,2496,NA,5
+Privilege Misuse,Utilities,700,NA,2
+Denial of Service (DoS),Finance,2518,EMEA,5
+Social Engineering,Transportation,1852,APAC,2
+Basic Web-API Attacks,Transportation,2877,APAC,1
+Privilege Misuse,Manufacturing,1958,APAC,3
+Privilege Misuse,Entertainment,2620,EMEA,2
+Basic Web-API Attacks,Retail,2301,APAC,1
+Privilege Misuse,Utilities,1658,APAC,2
+Miscellaneous Errors,Agriculture,544,EMEA,4
+Social Engineering,Agriculture,1408,NA,5
+Social Engineering,Information,2033,NA,1
+Privilege Misuse,Public Administration,2835,NA,1
+Social Engineering,Manufacturing,1941,APAC,4
+System Intrusion,Healthcare,2353,APAC,4
+Privilege Misuse,Retail,1204,EMEA,3
+Lost and Stolen Assets,Wholesale Trade,1398,APAC,3
+Miscellaneous Errors,Real Estate,2057,APAC,5
+Social Engineering,Finance,509,LAC,3
+Lost and Stolen Assets,Public Administration,1947,NA,4
+Denial of Service (DoS),Public Administration,2126,NA,3
+Privilege Misuse,Transportation,1202,APAC,1
+Miscellaneous Errors,Retail,1671,APAC,1
+Basic Web-API Attacks,Real Estate,1773,EMEA,3
+Social Engineering,Transportation,2335,NA,3
+Lost and Stolen Assets,Wholesale Trade,441,EMEA,1
+Basic Web-API Attacks,Retail,1074,NA,5
+Social Engineering,Transportation,800,NA,5
+System Intrusion,Utilities,2645,APAC,5
+Privilege Misuse,Transportation,347,EMEA,5
+Lost and Stolen Assets,Real Estate,2041,LAC,1
+Miscellaneous Errors,Transportation,765,APAC,2
+Basic Web-API Attacks,Utilities,1642,NA,1
+Denial of Service (DoS),Utilities,716,NA,2
+Miscellaneous Errors,Wholesale Trade,179,EMEA,1
+Social Engineering,Manufacturing,660,EMEA,1
+Basic Web-API Attacks,Real Estate,2594,EMEA,5
+Social Engineering,Retail,2928,NA,4
+Basic Web-API Attacks,Transportation,113,APAC,2
+Miscellaneous Errors,Retail,571,APAC,2
+Denial of Service (DoS),Transportation,2914,NA,1
+System Intrusion,Retail,309,EMEA,2
+Social Engineering,Information,1346,LAC,1
+Social Engineering,Retail,2495,APAC,1
+Privilege Misuse,Transportation,2523,EMEA,2
+System Intrusion,Healthcare,2747,APAC,2
+Lost and Stolen Assets,Public Administration,2684,EMEA,4
+System Intrusion,Professional,1862,EMEA,4
+Privilege Misuse,Real Estate,485,EMEA,4
+Denial of Service (DoS),Agriculture,770,EMEA,3
+System Intrusion,Utilities,891,NA,5
+Lost and Stolen Assets,Retail,2830,EMEA,5
+Lost and Stolen Assets,Utilities,1206,APAC,2
+Basic Web-API Attacks,Manufacturing,1275,APAC,5
+Privilege Misuse,Mining,921,EMEA,5
+System Intrusion,Wholesale Trade,1385,APAC,3
+System Intrusion,Entertainment,1704,EMEA,2
+Basic Web-API Attacks,Retail,1754,EMEA,1
+Denial of Service (DoS),Transportation,870,EMEA,4
+Lost and Stolen Assets,Administrative,2091,NA,2
+Social Engineering,Accommodation,1517,NA,3
+Basic Web-API Attacks,Public Administration,1636,EMEA,2
+Lost and Stolen Assets,Wholesale Trade,475,APAC,2
+Miscellaneous Errors,Entertainment,962,APAC,4
+Denial of Service (DoS),Manufacturing,2542,EMEA,3
+System Intrusion,Real Estate,556,NA,4
+System Intrusion,Wholesale Trade,2971,LAC,5
+Privilege Misuse,Entertainment,117,APAC,3
+Privilege Misuse,Manufacturing,2903,NA,5
+Social Engineering,Information,535,EMEA,2
+System Intrusion,Transportation,1159,EMEA,3
+Lost and Stolen Assets,Transportation,670,APAC,4
+Social Engineering,Agriculture,2577,APAC,5
+Denial of Service (DoS),Utilities,2069,EMEA,5
+Basic Web-API Attacks,Manufacturing,2734,APAC,1
+Social Engineering,Professional,178,APAC,3
+Basic Web-API Attacks,Public Administration,1518,EMEA,3
+Privilege Misuse,Information,2143,EMEA,1
+Privilege Misuse,Information,2249,APAC,3
+Lost and Stolen Assets,Transportation,2715,NA,5
+Social Engineering,Utilities,252,APAC,1
+System Intrusion,Healthcare,401,NA,2
+System Intrusion,Utilities,2078,APAC,3
+Denial of Service (DoS),Retail,1109,NA,1
+Denial of Service (DoS),Manufacturing,1683,APAC,4
+Miscellaneous Errors,Finance,1612,APAC,3
+Miscellaneous Errors,Public Administration,116,NA,1
+Privilege Misuse,Transportation,962,LAC,4
+Miscellaneous Errors,Transportation,721,EMEA,1
+Basic Web-API Attacks,Administrative,809,EMEA,2
+Basic Web-API Attacks,Utilities,1903,EMEA,2
+Denial of Service (DoS),Healthcare,2727,NA,5
+Denial of Service (DoS),Public Administration,1379,APAC,3
+System Intrusion,Retail,207,EMEA,4
+Privilege Misuse,Accommodation,1245,LAC,3
+System Intrusion,Retail,165,EMEA,4
+Social Engineering,Professional,1589,NA,2
+Miscellaneous Errors,Retail,1609,APAC,3
+Miscellaneous Errors,Healthcare,2270,NA,5
+Lost and Stolen Assets,Public Administration,1378,APAC,4
+Social Engineering,Public Administration,1465,NA,4
+System Intrusion,Real Estate,2347,NA,4
+Social Engineering,Utilities,2850,NA,4
+System Intrusion,Retail,2654,NA,3
+Lost and Stolen Assets,Transportation,510,NA,5
+Privilege Misuse,Utilities,2551,NA,4
+Denial of Service (DoS),Wholesale Trade,2069,NA,5
+Denial of Service (DoS),Public Administration,2879,EMEA,2
+System Intrusion,Information,2083,NA,3
+System Intrusion,Manufacturing,2595,EMEA,5
+Social Engineering,Retail,1058,APAC,5
+Lost and Stolen Assets,Wholesale Trade,672,EMEA,1
+System Intrusion,Finance,2340,APAC,1
+Denial of Service (DoS),Mining,227,APAC,4
+Privilege Misuse,Healthcare,519,APAC,3
+Lost and Stolen Assets,Utilities,838,APAC,5
+Miscellaneous Errors,Entertainment,2334,EMEA,4
+Privilege Misuse,Professional,1174,APAC,2
+System Intrusion,Information,1381,EMEA,2
+Miscellaneous Errors,Real Estate,1753,LAC,4
+System Intrusion,Entertainment,2118,EMEA,2
+Lost and Stolen Assets,Transportation,2526,APAC,4
+Miscellaneous Errors,Transportation,600,LAC,2
+Lost and Stolen Assets,Administrative,1373,LAC,1
+Social Engineering,Healthcare,1894,NA,5
+System Intrusion,Accommodation,898,APAC,1
+System Intrusion,Transportation,945,NA,2
+Miscellaneous Errors,Public Administration,248,APAC,2
+Social Engineering,Transportation,1206,NA,4
+Privilege Misuse,Entertainment,467,NA,4
+Miscellaneous Errors,Professional,1211,EMEA,5
+Miscellaneous Errors,Transportation,394,EMEA,1
+Denial of Service (DoS),Retail,2501,NA,5
+System Intrusion,Transportation,2471,NA,4
+Privilege Misuse,Transportation,1027,NA,1
+Basic Web-API Attacks,Information,2904,NA,3
+Social Engineering,Public Administration,375,NA,5
+System Intrusion,Retail,239,NA,2
+Privilege Misuse,Retail,1409,NA,2
+Miscellaneous Errors,Transportation,593,NA,1
+Privilege Misuse,Wholesale Trade,2535,NA,1
+System Intrusion,Real Estate,1802,NA,4
+Social Engineering,Transportation,1302,EMEA,2
+Basic Web-API Attacks,Mining,1629,NA,4
+Denial of Service (DoS),Utilities,1791,NA,4
+Miscellaneous Errors,Retail,1685,EMEA,1
+System Intrusion,Public Administration,2318,NA,3
+Social Engineering,Transportation,2649,LAC,2
+Lost and Stolen Assets,Manufacturing,643,APAC,1
+Lost and Stolen Assets,Healthcare,1418,APAC,2
+Social Engineering,Professional,2347,EMEA,5
+Privilege Misuse,Healthcare,1875,EMEA,3
+Denial of Service (DoS),Transportation,453,APAC,5
+Miscellaneous Errors,Accommodation,1849,NA,1
+System Intrusion,Utilities,2244,APAC,5
+Privilege Misuse,Public Administration,1445,NA,3
+Basic Web-API Attacks,Information,2547,NA,3
+Privilege Misuse,Information,1801,EMEA,5
+Privilege Misuse,Healthcare,1431,EMEA,2
+Basic Web-API Attacks,Public Administration,774,EMEA,2
+System Intrusion,Public Administration,966,EMEA,4
+Lost and Stolen Assets,Entertainment,580,APAC,3
+System Intrusion,Accommodation,222,EMEA,4
+Lost and Stolen Assets,Professional,1602,LAC,1
+Social Engineering,Public Administration,2792,EMEA,5
+Privilege Misuse,Retail,1683,NA,2
+Miscellaneous Errors,Information,1324,EMEA,2
+Denial of Service (DoS),Public Administration,1056,EMEA,3
+System Intrusion,Information,1467,LAC,2
+Basic Web-API Attacks,Wholesale Trade,870,EMEA,2
+Lost and Stolen Assets,Utilities,217,APAC,4
+Miscellaneous Errors,Wholesale Trade,424,APAC,5
+Denial of Service (DoS),Accommodation,579,APAC,1
+Lost and Stolen Assets,Manufacturing,1219,APAC,3
+Miscellaneous Errors,Entertainment,383,APAC,5
+System Intrusion,Retail,2658,NA,5
+System Intrusion,Healthcare,1687,LAC,1
+Miscellaneous Errors,Real Estate,1040,NA,3
+Basic Web-API Attacks,Entertainment,566,EMEA,4
+Miscellaneous Errors,Healthcare,1686,EMEA,5
+Social Engineering,Entertainment,829,EMEA,1
+Lost and Stolen Assets,Entertainment,2496,EMEA,3
+Privilege Misuse,Information,1605,NA,4
+Miscellaneous Errors,Wholesale Trade,2000,NA,1
+Miscellaneous Errors,Public Administration,1801,NA,5
+Basic Web-API Attacks,Public Administration,1641,NA,5
+Denial of Service (DoS),Accommodation,1031,EMEA,3
+Miscellaneous Errors,Manufacturing,1174,EMEA,2
+Lost and Stolen Assets,Construction,282,EMEA,4
+Privilege Misuse,Wholesale Trade,1702,APAC,2
+System Intrusion,Retail,2500,APAC,3
+Denial of Service (DoS),Utilities,2781,APAC,2
+Miscellaneous Errors,Retail,2055,APAC,1
+Social Engineering,Utilities,1557,EMEA,1
+Social Engineering,Healthcare,242,NA,4
+Social Engineering,Utilities,1826,NA,4
+Privilege Misuse,Entertainment,711,EMEA,5
+Privilege Misuse,Manufacturing,2617,APAC,5
+Social Engineering,Utilities,1162,NA,3
+Basic Web-API Attacks,Transportation,2174,LAC,2
+Miscellaneous Errors,Public Administration,2348,EMEA,4
+System Intrusion,Healthcare,948,EMEA,1
+Miscellaneous Errors,Manufacturing,1966,EMEA,1
+Lost and Stolen Assets,Agriculture,2262,NA,1
+Denial of Service (DoS),Public Administration,2945,APAC,1
+Miscellaneous Errors,Finance,1669,APAC,5
+Privilege Misuse,Agriculture,2791,NA,4
+Denial of Service (DoS),Transportation,560,NA,4
+System Intrusion,Wholesale Trade,590,APAC,5
+Basic Web-API Attacks,Public Administration,376,NA,2
+Basic Web-API Attacks,Information,711,EMEA,4
+System Intrusion,Finance,2746,APAC,2
+Basic Web-API Attacks,Entertainment,1482,APAC,5
+Denial of Service (DoS),Retail,2833,APAC,3
+Denial of Service (DoS),Utilities,2844,EMEA,2
+Denial of Service (DoS),Public Administration,1976,EMEA,1
+System Intrusion,Wholesale Trade,2918,EMEA,4
+Basic Web-API Attacks,Healthcare,1282,NA,3
+Social Engineering,Finance,803,NA,5
+System Intrusion,Real Estate,558,NA,4
+Social Engineering,Entertainment,2729,EMEA,2
+Lost and Stolen Assets,Manufacturing,537,EMEA,1
+Lost and Stolen Assets,Transportation,985,APAC,5
+System Intrusion,Agriculture,427,APAC,3
+Miscellaneous Errors,Utilities,113,APAC,5
+Miscellaneous Errors,Information,1280,NA,2
+Privilege Misuse,Agriculture,1094,NA,3
+Lost and Stolen Assets,Entertainment,2239,APAC,3
+Miscellaneous Errors,Entertainment,2186,EMEA,3
+System Intrusion,Accommodation,559,EMEA,4
+Social Engineering,Real Estate,2684,APAC,5
+Denial of Service (DoS),Public Administration,2558,EMEA,1
+Miscellaneous Errors,Healthcare,1211,APAC,5
+Miscellaneous Errors,Utilities,2845,APAC,1
+Denial of Service (DoS),Transportation,2396,EMEA,1
+Basic Web-API Attacks,Real Estate,1013,LAC,4
+Lost and Stolen Assets,Information,350,LAC,4
+Privilege Misuse,Manufacturing,1984,EMEA,3
+Basic Web-API Attacks,Agriculture,1752,APAC,5
+Denial of Service (DoS),Public Administration,428,NA,4
+Privilege Misuse,Public Administration,1371,NA,3
+Denial of Service (DoS),Transportation,2423,EMEA,1
+Basic Web-API Attacks,Transportation,1780,APAC,5
+Denial of Service (DoS),Retail,1648,LAC,3
+Privilege Misuse,Retail,407,EMEA,2
+Social Engineering,Public Administration,261,NA,1
+Social Engineering,Utilities,2738,APAC,1
+Privilege Misuse,Retail,599,NA,1
+Social Engineering,Healthcare,1551,EMEA,4
+Social Engineering,Manufacturing,1722,EMEA,5
+Lost and Stolen Assets,Retail,540,EMEA,3
+Privilege Misuse,Entertainment,2323,APAC,3
+Privilege Misuse,Utilities,2433,APAC,5
+Lost and Stolen Assets,Retail,2317,EMEA,4
+Lost and Stolen Assets,Wholesale Trade,2357,NA,1
+Denial of Service (DoS),Manufacturing,1701,NA,4
+Basic Web-API Attacks,Agriculture,2606,NA,5
+Miscellaneous Errors,Entertainment,2377,LAC,2
+Miscellaneous Errors,Professional,552,APAC,1
+System Intrusion,Healthcare,2568,EMEA,1
+Basic Web-API Attacks,Retail,1389,EMEA,3
+System Intrusion,Utilities,1723,NA,3
+Basic Web-API Attacks,Public Administration,1291,EMEA,2
+Social Engineering,Agriculture,1006,NA,3
+Miscellaneous Errors,Entertainment,1898,EMEA,3
+Lost and Stolen Assets,Wholesale Trade,339,NA,2
+Social Engineering,Transportation,2667,NA,4
+Miscellaneous Errors,Utilities,1592,NA,5
+Privilege Misuse,Manufacturing,2923,NA,4
+Social Engineering,Transportation,2444,APAC,5
+Social Engineering,Accommodation,2790,NA,3
+Lost and Stolen Assets,Retail,759,APAC,3
+Miscellaneous Errors,Information,1713,EMEA,2
+Miscellaneous Errors,Public Administration,167,APAC,4
+System Intrusion,Wholesale Trade,976,EMEA,1
+System Intrusion,Entertainment,260,EMEA,5
+System Intrusion,Transportation,267,APAC,1
+Denial of Service (DoS),Entertainment,189,APAC,4
+Basic Web-API Attacks,Mining,709,EMEA,5
+Privilege Misuse,Entertainment,880,NA,3
+Lost and Stolen Assets,Healthcare,582,EMEA,1
+Denial of Service (DoS),Entertainment,860,EMEA,4
+Basic Web-API Attacks,Administrative,2318,NA,3
+Basic Web-API Attacks,Wholesale Trade,2467,NA,2
+Social Engineering,Public Administration,2038,NA,3
+Privilege Misuse,Retail,2862,EMEA,3
+Miscellaneous Errors,Healthcare,2037,NA,3
+Social Engineering,Retail,492,EMEA,2
+Miscellaneous Errors,Healthcare,2920,EMEA,2
+Social Engineering,Transportation,776,APAC,2
+Social Engineering,Utilities,908,APAC,1
+Privilege Misuse,Professional,775,LAC,5
+Denial of Service (DoS),Public Administration,2888,EMEA,2
+Social Engineering,Administrative,1977,APAC,1
+Lost and Stolen Assets,Finance,202,APAC,2
+System Intrusion,Professional,1832,NA,2
+Denial of Service (DoS),Administrative,1048,EMEA,3
+Lost and Stolen Assets,Transportation,2137,NA,2
+Miscellaneous Errors,Utilities,563,NA,3
+Miscellaneous Errors,Finance,1177,APAC,4
+System Intrusion,Entertainment,798,APAC,2
+Lost and Stolen Assets,Information,2999,NA,1
+Social Engineering,Retail,2563,NA,3
+Lost and Stolen Assets,Public Administration,1527,NA,2
+Social Engineering,Retail,2872,APAC,2
+Miscellaneous Errors,Information,572,APAC,2
+Lost and Stolen Assets,Transportation,2693,EMEA,3
+Miscellaneous Errors,Healthcare,746,APAC,5
+Social Engineering,Public Administration,2647,NA,3
+Denial of Service (DoS),Entertainment,323,NA,4
+Miscellaneous Errors,Finance,1654,EMEA,1
+Privilege Misuse,Public Administration,172,EMEA,4
+Miscellaneous Errors,Public Administration,2910,LAC,3
+Social Engineering,Entertainment,1007,NA,2
+System Intrusion,Agriculture,1160,NA,5
+Privilege Misuse,Healthcare,2314,EMEA,3
+System Intrusion,Accommodation,1928,EMEA,3
+Basic Web-API Attacks,Entertainment,2442,LAC,3
+Basic Web-API Attacks,Public Administration,2316,EMEA,2
+System Intrusion,Public Administration,923,NA,5
+System Intrusion,Public Administration,451,APAC,1
+Privilege Misuse,Professional,987,LAC,2
+Privilege Misuse,Finance,2736,LAC,4
+Miscellaneous Errors,Accommodation,780,NA,1
+System Intrusion,Finance,2189,EMEA,4
+Denial of Service (DoS),Accommodation,218,EMEA,3
+Social Engineering,Information,1155,NA,2
+Social Engineering,Finance,1951,EMEA,5
+Social Engineering,Public Administration,542,LAC,2
+Denial of Service (DoS),Administrative,2763,LAC,5
+Lost and Stolen Assets,Utilities,675,NA,5
+Privilege Misuse,Manufacturing,364,NA,2
+Denial of Service (DoS),Wholesale Trade,1278,NA,4
+Social Engineering,Entertainment,1486,LAC,4
+System Intrusion,Entertainment,2789,EMEA,3
+Privilege Misuse,Public Administration,847,NA,2
+Social Engineering,Accommodation,2473,NA,1
+Basic Web-API Attacks,Information,2887,EMEA,1
+Basic Web-API Attacks,Transportation,620,NA,2
+Lost and Stolen Assets,Wholesale Trade,1466,EMEA,5
+System Intrusion,Construction,2364,EMEA,2
+Lost and Stolen Assets,Transportation,1076,NA,5
+Denial of Service (DoS),Accommodation,2040,APAC,5
+System Intrusion,Utilities,2242,NA,5
+Social Engineering,Administrative,2142,EMEA,5
+Miscellaneous Errors,Utilities,250,APAC,5
+Social Engineering,Mining,1289,EMEA,3
+Social Engineering,Real Estate,1223,NA,2
+Social Engineering,Transportation,790,NA,4
+Denial of Service (DoS),Professional,1830,EMEA,1
+Miscellaneous Errors,Mining,1940,EMEA,5
+Miscellaneous Errors,Utilities,2373,NA,5
+Social Engineering,Transportation,405,NA,1
+Miscellaneous Errors,Manufacturing,160,APAC,3
+Social Engineering,Wholesale Trade,1394,APAC,5
+Privilege Misuse,Public Administration,2436,EMEA,4
+Basic Web-API Attacks,Healthcare,2117,NA,3
+Denial of Service (DoS),Entertainment,1532,LAC,2
+System Intrusion,Transportation,1357,EMEA,2
+Privilege Misuse,Wholesale Trade,1764,APAC,1
+Miscellaneous Errors,Retail,1603,APAC,5
+Privilege Misuse,Finance,191,NA,2
+Basic Web-API Attacks,Entertainment,121,NA,5
+Miscellaneous Errors,Transportation,1590,NA,3
+Miscellaneous Errors,Healthcare,1566,APAC,1
+Basic Web-API Attacks,Public Administration,898,APAC,2
+Lost and Stolen Assets,Accommodation,437,NA,3
+Social Engineering,Healthcare,2284,NA,5
+Miscellaneous Errors,Information,463,LAC,1
+Privilege Misuse,Wholesale Trade,2462,APAC,5
+System Intrusion,Transportation,270,NA,1
+Miscellaneous Errors,Entertainment,2180,APAC,4
+Basic Web-API Attacks,Utilities,893,LAC,5
+System Intrusion,Retail,1549,EMEA,1
+Basic Web-API Attacks,Mining,841,EMEA,3
+Social Engineering,Agriculture,2589,EMEA,5
+Privilege Misuse,Public Administration,1517,LAC,1
+Denial of Service (DoS),Utilities,2845,NA,5
+Privilege Misuse,Wholesale Trade,684,APAC,4
+Privilege Misuse,Real Estate,1313,NA,5
+Denial of Service (DoS),Wholesale Trade,330,NA,2
+Denial of Service (DoS),Public Administration,1997,NA,3
+Lost and Stolen Assets,Retail,170,NA,3
+Social Engineering,Utilities,1364,APAC,3
+Denial of Service (DoS),Entertainment,1339,NA,4
+System Intrusion,Administrative,1617,NA,4
+Social Engineering,Utilities,2655,EMEA,3
+Lost and Stolen Assets,Professional,618,EMEA,5
+Lost and Stolen Assets,Real Estate,1748,EMEA,5
+Privilege Misuse,Entertainment,1526,APAC,5
+Social Engineering,Information,367,NA,1
+Miscellaneous Errors,Public Administration,396,EMEA,3
+Social Engineering,Retail,2819,EMEA,3
+Privilege Misuse,Public Administration,2730,APAC,5
+Denial of Service (DoS),Administrative,1458,EMEA,1
+Denial of Service (DoS),Utilities,1821,NA,4
+Social Engineering,Transportation,1720,APAC,1
+Social Engineering,Transportation,236,APAC,5
+Miscellaneous Errors,Retail,2151,EMEA,3
+Basic Web-API Attacks,Wholesale Trade,807,EMEA,5
+Denial of Service (DoS),Transportation,195,EMEA,5
+Privilege Misuse,Retail,807,EMEA,3
+Miscellaneous Errors,Transportation,1350,EMEA,3
+Privilege Misuse,Entertainment,2331,EMEA,3
+Denial of Service (DoS),Professional,1327,EMEA,5
+Denial of Service (DoS),Transportation,1872,NA,2
+Denial of Service (DoS),Healthcare,817,EMEA,4
+Basic Web-API Attacks,Construction,706,APAC,1
+Miscellaneous Errors,Manufacturing,1840,EMEA,2
+Privilege Misuse,Utilities,1058,APAC,1
+Social Engineering,Retail,2156,EMEA,1
+Miscellaneous Errors,Manufacturing,995,NA,1
+Denial of Service (DoS),Utilities,1838,APAC,1
+Denial of Service (DoS),Transportation,204,LAC,5
+Miscellaneous Errors,Wholesale Trade,1770,EMEA,2
+Miscellaneous Errors,Information,352,APAC,2
+Miscellaneous Errors,Manufacturing,2385,EMEA,5
+Privilege Misuse,Construction,1801,EMEA,4
+Social Engineering,Utilities,2354,APAC,2
+Denial of Service (DoS),Healthcare,1747,NA,2
+Miscellaneous Errors,Information,2577,APAC,4
+Basic Web-API Attacks,Entertainment,1941,LAC,3
+Social Engineering,Transportation,554,NA,4
+Privilege Misuse,Utilities,1762,APAC,5
+Lost and Stolen Assets,Information,1988,NA,4
+Denial of Service (DoS),Public Administration,556,APAC,3
+Privilege Misuse,Utilities,2489,EMEA,4
+Privilege Misuse,Finance,2539,APAC,2
+Lost and Stolen Assets,Information,948,APAC,2
+Miscellaneous Errors,Manufacturing,2564,NA,2
+Miscellaneous Errors,Information,2758,EMEA,3
+Lost and Stolen Assets,Finance,2384,EMEA,3
+Lost and Stolen Assets,Real Estate,494,NA,2
+Miscellaneous Errors,Retail,1891,APAC,2
+Lost and Stolen Assets,Manufacturing,2361,APAC,5
+Privilege Misuse,Manufacturing,1129,LAC,5
+System Intrusion,Accommodation,1452,APAC,4
+Social Engineering,Retail,1471,EMEA,1
+Privilege Misuse,Healthcare,2034,NA,4
+Denial of Service (DoS),Agriculture,1255,EMEA,1
+Basic Web-API Attacks,Mining,2866,LAC,1
+Lost and Stolen Assets,Professional,1497,NA,4
+System Intrusion,Public Administration,2314,EMEA,2
+Social Engineering,Utilities,343,NA,2
+System Intrusion,Healthcare,1743,APAC,1
+System Intrusion,Utilities,471,NA,4
+Privilege Misuse,Public Administration,721,EMEA,1
+System Intrusion,Administrative,2114,NA,4
+Privilege Misuse,Utilities,2414,APAC,3
+Privilege Misuse,Retail,358,APAC,1
+Denial of Service (DoS),Utilities,1699,EMEA,1
+Privilege Misuse,Entertainment,616,NA,2
+Basic Web-API Attacks,Utilities,2202,NA,4
+Privilege Misuse,Utilities,2817,NA,2
+Lost and Stolen Assets,Finance,2575,EMEA,2
+Denial of Service (DoS),Transportation,318,EMEA,2
+Denial of Service (DoS),Public Administration,625,APAC,2
+System Intrusion,Accommodation,2929,APAC,3
+Miscellaneous Errors,Retail,337,EMEA,2
+Social Engineering,Finance,1046,EMEA,1
+Social Engineering,Utilities,2931,EMEA,3
+Social Engineering,Utilities,707,APAC,1
+Social Engineering,Retail,1893,LAC,4
+Lost and Stolen Assets,Utilities,2996,APAC,2
+Social Engineering,Retail,2086,NA,3
+Privilege Misuse,Manufacturing,2626,EMEA,1
+System Intrusion,Finance,2793,APAC,1
+Denial of Service (DoS),Public Administration,225,EMEA,4
+System Intrusion,Transportation,898,NA,5
+Privilege Misuse,Professional,1926,APAC,3
+Social Engineering,Transportation,1742,NA,5
+Privilege Misuse,Wholesale Trade,1738,NA,2
+System Intrusion,Finance,2214,NA,2
+Basic Web-API Attacks,Public Administration,2545,EMEA,2
+Social Engineering,Real Estate,1693,NA,2
+Lost and Stolen Assets,Administrative,2282,APAC,5
+Miscellaneous Errors,Transportation,2123,EMEA,2
+Denial of Service (DoS),Construction,452,NA,4
+Lost and Stolen Assets,Transportation,760,EMEA,4
+Social Engineering,Utilities,684,NA,2
+Privilege Misuse,Accommodation,2840,APAC,1
+Basic Web-API Attacks,Utilities,2146,EMEA,4
+Basic Web-API Attacks,Retail,2535,APAC,5
+System Intrusion,Utilities,192,APAC,5
+Privilege Misuse,Utilities,1987,EMEA,4
+Denial of Service (DoS),Manufacturing,625,LAC,5
+Lost and Stolen Assets,Public Administration,716,APAC,1
+Lost and Stolen Assets,Information,2724,EMEA,1
+Social Engineering,Entertainment,1545,APAC,4
+Lost and Stolen Assets,Utilities,1725,APAC,5
+Social Engineering,Transportation,2632,NA,5
+Privilege Misuse,Transportation,1338,EMEA,5
+Denial of Service (DoS),Utilities,131,NA,2
+Basic Web-API Attacks,Entertainment,2402,NA,1
+Social Engineering,Finance,2107,LAC,1
+Social Engineering,Public Administration,956,NA,3
+Basic Web-API Attacks,Professional,1863,NA,2
+Miscellaneous Errors,Public Administration,1622,EMEA,5
+Denial of Service (DoS),Entertainment,341,NA,5
+Lost and Stolen Assets,Finance,782,LAC,5
+Denial of Service (DoS),Transportation,953,EMEA,2
+Denial of Service (DoS),Professional,1816,NA,2
+Lost and Stolen Assets,Manufacturing,2700,APAC,4
+Miscellaneous Errors,Manufacturing,2571,LAC,5
+System Intrusion,Utilities,2655,APAC,4
+Denial of Service (DoS),Public Administration,2616,EMEA,2
+Miscellaneous Errors,Entertainment,137,EMEA,1
+Social Engineering,Healthcare,2797,EMEA,3
+Privilege Misuse,Utilities,1427,NA,4
+Basic Web-API Attacks,Mining,2986,NA,4
+Social Engineering,Retail,2200,NA,5
+Basic Web-API Attacks,Wholesale Trade,1670,NA,2
+Social Engineering,Wholesale Trade,990,NA,2
+Privilege Misuse,Agriculture,1384,EMEA,1
+Miscellaneous Errors,Transportation,2179,NA,1
+Denial of Service (DoS),Transportation,1379,APAC,4
+Lost and Stolen Assets,Utilities,1993,NA,2
+Lost and Stolen Assets,Transportation,2829,EMEA,3
+Miscellaneous Errors,Transportation,2062,LAC,1
+Lost and Stolen Assets,Utilities,1079,EMEA,2
+System Intrusion,Administrative,2526,APAC,4
+Denial of Service (DoS),Public Administration,2237,APAC,1
+Basic Web-API Attacks,Transportation,609,APAC,2
+Lost and Stolen Assets,Wholesale Trade,2638,APAC,5
+System Intrusion,Finance,1966,APAC,5
+Basic Web-API Attacks,Utilities,808,APAC,5
+Privilege Misuse,Agriculture,1517,APAC,2
+Privilege Misuse,Professional,1601,EMEA,2
+Social Engineering,Mining,2814,EMEA,4
+System Intrusion,Agriculture,1678,NA,2
+Basic Web-API Attacks,Transportation,1634,EMEA,4
+Privilege Misuse,Retail,1779,EMEA,1
+System Intrusion,Transportation,2518,EMEA,5
+Denial of Service (DoS),Administrative,2021,APAC,2
+Basic Web-API Attacks,Utilities,229,EMEA,5
+Social Engineering,Retail,2487,NA,4
+Basic Web-API Attacks,Transportation,1541,NA,3
+Privilege Misuse,Finance,2348,EMEA,3
+Miscellaneous Errors,Public Administration,1051,NA,4
+Basic Web-API Attacks,Public Administration,1036,NA,2
+Miscellaneous Errors,Healthcare,2656,APAC,5
+Miscellaneous Errors,Wholesale Trade,1179,EMEA,1
+Miscellaneous Errors,Entertainment,2197,LAC,1
+Social Engineering,Wholesale Trade,2178,NA,5
+Lost and Stolen Assets,Transportation,1535,APAC,4
+Privilege Misuse,Manufacturing,608,NA,1
+System Intrusion,Retail,2624,APAC,4
+Miscellaneous Errors,Utilities,811,LAC,3
+Social Engineering,Entertainment,1702,NA,2
+Lost and Stolen Assets,Retail,1653,EMEA,2
+Basic Web-API Attacks,Transportation,2929,NA,5
+System Intrusion,Transportation,1129,EMEA,3
+Social Engineering,Professional,660,EMEA,5
+Social Engineering,Accommodation,761,APAC,4
+Denial of Service (DoS),Utilities,2024,APAC,1
+Privilege Misuse,Agriculture,2540,LAC,4
+Denial of Service (DoS),Wholesale Trade,690,APAC,3
+Denial of Service (DoS),Mining,555,APAC,1
+Basic Web-API Attacks,Public Administration,1278,EMEA,3
+Denial of Service (DoS),Accommodation,724,NA,2
+Denial of Service (DoS),Transportation,818,APAC,5
+Privilege Misuse,Information,601,APAC,3
+Privilege Misuse,Manufacturing,921,EMEA,1
+Basic Web-API Attacks,Mining,1189,EMEA,1
+Miscellaneous Errors,Manufacturing,518,NA,3
+Basic Web-API Attacks,Transportation,1440,NA,4
+Basic Web-API Attacks,Wholesale Trade,755,LAC,1
+Privilege Misuse,Entertainment,1218,NA,1
+Lost and Stolen Assets,Entertainment,921,NA,5
+Social Engineering,Retail,2338,EMEA,2
+Denial of Service (DoS),Healthcare,2601,EMEA,3
+Lost and Stolen Assets,Real Estate,907,EMEA,5
+Lost and Stolen Assets,Information,1236,EMEA,2
+Miscellaneous Errors,Utilities,2151,LAC,1
+Privilege Misuse,Transportation,1258,EMEA,3
+Social Engineering,Retail,1372,EMEA,2
+Denial of Service (DoS),Retail,2478,NA,4
+Basic Web-API Attacks,Utilities,2770,APAC,4
+Miscellaneous Errors,Professional,1039,NA,4
+Privilege Misuse,Retail,159,EMEA,2
+Social Engineering,Mining,1262,APAC,2
+System Intrusion,Manufacturing,576,LAC,4
+Basic Web-API Attacks,Utilities,945,EMEA,4
+System Intrusion,Real Estate,547,NA,2
+Denial of Service (DoS),Real Estate,2853,EMEA,4
+Denial of Service (DoS),Information,989,NA,4
+System Intrusion,Wholesale Trade,793,NA,5
+Denial of Service (DoS),Real Estate,1184,APAC,3
+Social Engineering,Accommodation,1487,NA,4
+Privilege Misuse,Utilities,819,EMEA,5
+Lost and Stolen Assets,Public Administration,849,NA,5
+Basic Web-API Attacks,Accommodation,2193,NA,5
+Social Engineering,Finance,1441,APAC,1
+Lost and Stolen Assets,Utilities,352,APAC,1
+Miscellaneous Errors,Wholesale Trade,1978,EMEA,4
+Privilege Misuse,Utilities,1663,APAC,2
+Denial of Service (DoS),Public Administration,2706,NA,5
+Denial of Service (DoS),Transportation,1773,NA,3
+Miscellaneous Errors,Agriculture,2786,APAC,3
+Social Engineering,Wholesale Trade,627,NA,5
+System Intrusion,Transportation,445,EMEA,4
+Miscellaneous Errors,Utilities,450,APAC,3
+Basic Web-API Attacks,Transportation,353,EMEA,1
+Basic Web-API Attacks,Healthcare,727,APAC,1
+Social Engineering,Transportation,1262,EMEA,2
+Basic Web-API Attacks,Entertainment,2998,EMEA,1
+Miscellaneous Errors,Public Administration,2272,APAC,1
+Lost and Stolen Assets,Professional,872,LAC,4
+Lost and Stolen Assets,Public Administration,2842,EMEA,4
+Basic Web-API Attacks,Transportation,999,APAC,1
+Social Engineering,Utilities,2176,NA,2
+Privilege Misuse,Transportation,294,APAC,3
+Basic Web-API Attacks,Professional,2609,LAC,3
+Denial of Service (DoS),Transportation,1272,NA,5
+Miscellaneous Errors,Finance,2222,APAC,4
+Privilege Misuse,Utilities,1371,EMEA,5
+Privilege Misuse,Agriculture,1294,LAC,2
+Social Engineering,Transportation,1188,EMEA,1
+Basic Web-API Attacks,Public Administration,666,APAC,4
+Basic Web-API Attacks,Finance,862,EMEA,2
+Privilege Misuse,Retail,1213,EMEA,5
+Social Engineering,Administrative,1393,NA,5
+Privilege Misuse,Public Administration,2978,EMEA,4
+Basic Web-API Attacks,Professional,943,APAC,5
+Miscellaneous Errors,Entertainment,534,EMEA,3
+Social Engineering,Agriculture,394,EMEA,2
+Miscellaneous Errors,Transportation,492,EMEA,1
+Denial of Service (DoS),Utilities,1060,LAC,4
+Lost and Stolen Assets,Retail,1957,NA,4
+Miscellaneous Errors,Utilities,2283,LAC,5
+Social Engineering,Construction,606,APAC,1
+Social Engineering,Entertainment,1085,NA,2
+Privilege Misuse,Entertainment,1636,NA,2
+Social Engineering,Public Administration,1730,EMEA,3
+Miscellaneous Errors,Accommodation,2697,APAC,1
+Lost and Stolen Assets,Agriculture,1155,APAC,2
+Social Engineering,Wholesale Trade,2596,EMEA,2
+Lost and Stolen Assets,Wholesale Trade,1371,EMEA,4
+Privilege Misuse,Agriculture,2674,APAC,5
+System Intrusion,Accommodation,1538,NA,5
+System Intrusion,Accommodation,1104,EMEA,1
+Miscellaneous Errors,Accommodation,1813,EMEA,3
+System Intrusion,Accommodation,1974,LAC,3
+System Intrusion,Public Administration,1042,LAC,1
+Social Engineering,Manufacturing,1953,EMEA,4
+System Intrusion,Healthcare,2315,EMEA,5
+Denial of Service (DoS),Transportation,2460,EMEA,2
+Denial of Service (DoS),Finance,377,NA,4
+Privilege Misuse,Transportation,1828,EMEA,5
+Lost and Stolen Assets,Entertainment,2225,APAC,4
+Privilege Misuse,Finance,1860,EMEA,4
+Basic Web-API Attacks,Public Administration,2493,EMEA,5
+Basic Web-API Attacks,Healthcare,2851,LAC,4
+Privilege Misuse,Agriculture,458,APAC,5
+Lost and Stolen Assets,Professional,674,EMEA,3
+System Intrusion,Transportation,1723,EMEA,3
+Basic Web-API Attacks,Healthcare,2466,APAC,2
+Basic Web-API Attacks,Transportation,1904,APAC,5
+Social Engineering,Utilities,1850,NA,1
+Privilege Misuse,Transportation,2498,APAC,1
+Basic Web-API Attacks,Utilities,2242,EMEA,1
+System Intrusion,Transportation,1248,NA,2
+Privilege Misuse,Administrative,1621,EMEA,2
+Social Engineering,Finance,2339,APAC,4
+Denial of Service (DoS),Retail,682,LAC,5
+System Intrusion,Finance,932,NA,2
+Denial of Service (DoS),Retail,2156,EMEA,1
+Basic Web-API Attacks,Finance,1077,NA,2
+Privilege Misuse,Wholesale Trade,1277,EMEA,3
+Denial of Service (DoS),Wholesale Trade,149,NA,1
+Denial of Service (DoS),Utilities,2802,APAC,2
+Denial of Service (DoS),Wholesale Trade,1241,NA,5
+Basic Web-API Attacks,Construction,2690,NA,4
+Basic Web-API Attacks,Professional,2538,APAC,4
+Privilege Misuse,Healthcare,1875,EMEA,1
+Denial of Service (DoS),Accommodation,2877,APAC,1
+Privilege Misuse,Healthcare,404,EMEA,2
+Lost and Stolen Assets,Information,1456,APAC,5
+Denial of Service (DoS),Agriculture,1268,NA,2
+Lost and Stolen Assets,Public Administration,2942,LAC,5
+Lost and Stolen Assets,Entertainment,2395,APAC,3
+Lost and Stolen Assets,Information,2622,APAC,1
+Lost and Stolen Assets,Entertainment,1575,APAC,3
+Denial of Service (DoS),Public Administration,1709,EMEA,5
+Miscellaneous Errors,Finance,887,LAC,5
+Lost and Stolen Assets,Accommodation,779,LAC,1
+System Intrusion,Mining,1620,NA,5
+System Intrusion,Retail,873,EMEA,2
+Privilege Misuse,Information,1149,EMEA,1
+Social Engineering,Retail,1894,EMEA,2
+Basic Web-API Attacks,Utilities,469,APAC,5
+System Intrusion,Entertainment,296,NA,4
+Basic Web-API Attacks,Utilities,1262,NA,3
+Basic Web-API Attacks,Public Administration,538,NA,5
+Social Engineering,Agriculture,546,APAC,1
+Social Engineering,Real Estate,1259,NA,1
+Miscellaneous Errors,Agriculture,2362,NA,5
+Miscellaneous Errors,Retail,1006,APAC,2
+Miscellaneous Errors,Transportation,1941,NA,3
+Basic Web-API Attacks,Finance,1245,LAC,3
+Social Engineering,Utilities,2692,EMEA,3
+Privilege Misuse,Administrative,2731,NA,5
+Miscellaneous Errors,Healthcare,1523,EMEA,1
+Denial of Service (DoS),Retail,487,EMEA,3
+Miscellaneous Errors,Transportation,310,NA,2
+Denial of Service (DoS),Manufacturing,2626,EMEA,5
+Basic Web-API Attacks,Real Estate,1073,EMEA,5
+Miscellaneous Errors,Transportation,1719,LAC,2
+Social Engineering,Entertainment,304,EMEA,1
+Basic Web-API Attacks,Mining,2276,NA,5
+Lost and Stolen Assets,Transportation,359,NA,3
+Denial of Service (DoS),Construction,2227,NA,4
+Basic Web-API Attacks,Utilities,2345,APAC,1
+Lost and Stolen Assets,Information,2494,NA,2
+Miscellaneous Errors,Finance,2644,EMEA,3
+Social Engineering,Mining,1517,EMEA,3
+Privilege Misuse,Retail,896,APAC,4
+Miscellaneous Errors,Agriculture,1895,APAC,4
+Social Engineering,Real Estate,1655,LAC,4
+Miscellaneous Errors,Utilities,1614,NA,3
+Basic Web-API Attacks,Mining,1547,NA,1
+Denial of Service (DoS),Accommodation,1994,NA,5
+Social Engineering,Healthcare,2721,APAC,4
+Denial of Service (DoS),Manufacturing,1732,APAC,4
+Privilege Misuse,Transportation,2414,EMEA,1
+Privilege Misuse,Healthcare,1818,EMEA,5
+Denial of Service (DoS),Utilities,1875,APAC,4
+Privilege Misuse,Transportation,1641,EMEA,1
+Miscellaneous Errors,Accommodation,2745,NA,1
+Lost and Stolen Assets,Entertainment,190,EMEA,4
+System Intrusion,Agriculture,520,NA,3
+Lost and Stolen Assets,Finance,427,NA,3
+Lost and Stolen Assets,Entertainment,505,NA,3
+Basic Web-API Attacks,Construction,2202,EMEA,2
+Denial of Service (DoS),Transportation,2775,NA,5
+Basic Web-API Attacks,Utilities,1119,NA,2
+Miscellaneous Errors,Finance,1955,EMEA,2
+Privilege Misuse,Public Administration,2579,NA,4
+Miscellaneous Errors,Retail,2600,LAC,4
+Basic Web-API Attacks,Transportation,1658,LAC,4
+System Intrusion,Utilities,1871,NA,2
+Lost and Stolen Assets,Retail,1150,EMEA,1
+Denial of Service (DoS),Entertainment,2871,APAC,5
+Privilege Misuse,Finance,615,APAC,2
+Miscellaneous Errors,Transportation,317,LAC,2
+Basic Web-API Attacks,Real Estate,2721,APAC,2
+Lost and Stolen Assets,Transportation,801,APAC,1
+Miscellaneous Errors,Construction,2459,NA,2
+Social Engineering,Administrative,570,LAC,3
+Lost and Stolen Assets,Information,1806,EMEA,5
+Denial of Service (DoS),Real Estate,1345,EMEA,5
+Social Engineering,Healthcare,1668,APAC,4
+System Intrusion,Finance,348,NA,4
+Basic Web-API Attacks,Transportation,2319,LAC,5
+Privilege Misuse,Entertainment,1038,EMEA,3
+Lost and Stolen Assets,Real Estate,444,LAC,5
+Denial of Service (DoS),Wholesale Trade,691,EMEA,1
+Social Engineering,Retail,829,NA,3
+Privilege Misuse,Utilities,933,APAC,5
+Lost and Stolen Assets,Real Estate,1536,NA,5
+Miscellaneous Errors,Information,2884,NA,2
+System Intrusion,Accommodation,183,NA,1
+Social Engineering,Accommodation,2277,APAC,5
+Denial of Service (DoS),Public Administration,358,NA,3
+Social Engineering,Healthcare,2116,NA,4
+Basic Web-API Attacks,Public Administration,2267,APAC,5
+Privilege Misuse,Entertainment,2800,EMEA,1
+Miscellaneous Errors,Healthcare,881,LAC,3
+Basic Web-API Attacks,Manufacturing,246,NA,1
+Privilege Misuse,Transportation,1515,APAC,2
+Basic Web-API Attacks,Utilities,383,APAC,1
+Miscellaneous Errors,Transportation,396,APAC,4
+Denial of Service (DoS),Transportation,2326,EMEA,1
+Denial of Service (DoS),Information,2263,NA,3
+Lost and Stolen Assets,Manufacturing,2135,APAC,5
+Denial of Service (DoS),Information,2785,APAC,1
+System Intrusion,Wholesale Trade,493,NA,3
+System Intrusion,Public Administration,1274,APAC,3
+Miscellaneous Errors,Transportation,2411,APAC,3
+Lost and Stolen Assets,Entertainment,980,APAC,5
+System Intrusion,Transportation,2366,APAC,2
+Lost and Stolen Assets,Manufacturing,2166,APAC,5
+Denial of Service (DoS),Wholesale Trade,1661,LAC,5
+Denial of Service (DoS),Information,2478,NA,3
+Lost and Stolen Assets,Public Administration,2000,NA,1
+Lost and Stolen Assets,Entertainment,2720,NA,3
+Denial of Service (DoS),Finance,1453,APAC,2
+Lost and Stolen Assets,Mining,2840,LAC,3
+Lost and Stolen Assets,Retail,2740,NA,3
+Miscellaneous Errors,Construction,312,APAC,3
+Social Engineering,Wholesale Trade,2178,APAC,2
+Denial of Service (DoS),Utilities,109,EMEA,1
+Basic Web-API Attacks,Real Estate,147,EMEA,5
+Privilege Misuse,Construction,1767,EMEA,5
+Denial of Service (DoS),Information,1805,NA,5
+Social Engineering,Utilities,2595,EMEA,4
+Social Engineering,Administrative,2961,LAC,5
+Privilege Misuse,Transportation,1968,APAC,5
+Denial of Service (DoS),Transportation,2462,APAC,2
+System Intrusion,Healthcare,530,EMEA,3
+System Intrusion,Agriculture,2932,APAC,3
+Miscellaneous Errors,Transportation,127,EMEA,5
+Privilege Misuse,Finance,539,NA,4
+System Intrusion,Finance,2987,NA,5
+Social Engineering,Administrative,451,EMEA,5
+Denial of Service (DoS),Retail,2433,NA,1
+Privilege Misuse,Construction,786,NA,2
+System Intrusion,Accommodation,2461,EMEA,4
+Basic Web-API Attacks,Wholesale Trade,2519,APAC,3
+Denial of Service (DoS),Wholesale Trade,129,APAC,2
+System Intrusion,Real Estate,2173,EMEA,3
+Lost and Stolen Assets,Transportation,972,NA,3
+Miscellaneous Errors,Utilities,2764,APAC,1
+System Intrusion,Construction,1241,EMEA,2
+Privilege Misuse,Administrative,993,EMEA,3
+Denial of Service (DoS),Information,2132,NA,5
+System Intrusion,Transportation,2256,APAC,4
+Privilege Misuse,Mining,1269,NA,4
+Privilege Misuse,Finance,425,NA,1
+Basic Web-API Attacks,Healthcare,1433,APAC,5
+System Intrusion,Accommodation,2822,EMEA,5
+Denial of Service (DoS),Wholesale Trade,1856,EMEA,4
+Lost and Stolen Assets,Transportation,1746,APAC,1
+Lost and Stolen Assets,Transportation,2716,LAC,5
+Basic Web-API Attacks,Wholesale Trade,271,NA,1
+Lost and Stolen Assets,Agriculture,172,EMEA,4
+Miscellaneous Errors,Finance,912,EMEA,3
+Denial of Service (DoS),Real Estate,1313,LAC,4
+System Intrusion,Finance,1494,EMEA,2
+System Intrusion,Manufacturing,432,EMEA,5
+Miscellaneous Errors,Entertainment,938,EMEA,2
+Privilege Misuse,Healthcare,967,EMEA,3
+Privilege Misuse,Utilities,1574,APAC,3
+Denial of Service (DoS),Agriculture,2263,NA,2
+Lost and Stolen Assets,Wholesale Trade,918,APAC,3
+Basic Web-API Attacks,Accommodation,762,EMEA,4
+Miscellaneous Errors,Retail,2304,NA,3
+Lost and Stolen Assets,Retail,1408,NA,3
+Social Engineering,Utilities,855,EMEA,4
+Denial of Service (DoS),Transportation,2241,EMEA,2
+Lost and Stolen Assets,Real Estate,938,NA,1
+Privilege Misuse,Manufacturing,1269,APAC,2
+System Intrusion,Agriculture,2900,APAC,5
+Privilege Misuse,Information,1523,APAC,4
+Basic Web-API Attacks,Utilities,138,EMEA,2
+Privilege Misuse,Transportation,1506,EMEA,4
+Lost and Stolen Assets,Public Administration,1549,EMEA,5
+Privilege Misuse,Retail,1872,APAC,3
+Social Engineering,Utilities,2957,LAC,3
+System Intrusion,Transportation,2161,APAC,3
+Social Engineering,Public Administration,1456,APAC,5
+Denial of Service (DoS),Real Estate,780,NA,5
+Miscellaneous Errors,Retail,2778,EMEA,2
+Privilege Misuse,Wholesale Trade,2553,EMEA,2
+Basic Web-API Attacks,Professional,1304,NA,5
+Privilege Misuse,Transportation,1863,APAC,5
+Privilege Misuse,Public Administration,2098,APAC,4
+Basic Web-API Attacks,Utilities,791,NA,2
+Lost and Stolen Assets,Healthcare,635,APAC,2
+Denial of Service (DoS),Entertainment,1924,EMEA,2
+Lost and Stolen Assets,Information,215,NA,4
+Denial of Service (DoS),Transportation,1605,NA,1
+Social Engineering,Public Administration,1298,APAC,2
+Miscellaneous Errors,Construction,1188,APAC,5
+Miscellaneous Errors,Wholesale Trade,497,LAC,1
+Denial of Service (DoS),Public Administration,1824,EMEA,5
+Miscellaneous Errors,Utilities,590,APAC,2
+Lost and Stolen Assets,Public Administration,315,NA,4
+Basic Web-API Attacks,Transportation,1817,APAC,4
+Denial of Service (DoS),Real Estate,2826,EMEA,2
+Basic Web-API Attacks,Transportation,2590,EMEA,5
+Privilege Misuse,Entertainment,1449,EMEA,5
+Miscellaneous Errors,Public Administration,2258,NA,4
+Basic Web-API Attacks,Finance,425,EMEA,4
+Denial of Service (DoS),Agriculture,2787,APAC,1
+System Intrusion,Entertainment,999,EMEA,3
+Denial of Service (DoS),Agriculture,1526,EMEA,4
+Basic Web-API Attacks,Real Estate,1936,EMEA,1
+Basic Web-API Attacks,Accommodation,685,NA,1
+Privilege Misuse,Healthcare,868,EMEA,1
+System Intrusion,Transportation,884,APAC,3
+System Intrusion,Entertainment,2720,NA,3
+Miscellaneous Errors,Transportation,928,APAC,5
+Privilege Misuse,Manufacturing,390,EMEA,1
+Denial of Service (DoS),Manufacturing,1397,NA,3
+Social Engineering,Utilities,1368,APAC,2
+Miscellaneous Errors,Professional,386,EMEA,1
+Lost and Stolen Assets,Wholesale Trade,230,APAC,4
+Lost and Stolen Assets,Public Administration,1456,EMEA,3
+Privilege Misuse,Administrative,387,APAC,3
+Lost and Stolen Assets,Healthcare,1554,NA,2
+Social Engineering,Manufacturing,2228,EMEA,3
+Denial of Service (DoS),Agriculture,2072,NA,5
+Social Engineering,Information,2523,NA,3
+Social Engineering,Transportation,1644,EMEA,4
+Denial of Service (DoS),Professional,1936,APAC,3
+Privilege Misuse,Information,2130,LAC,2
+Lost and Stolen Assets,Entertainment,1592,EMEA,2
+Social Engineering,Information,1022,NA,3
+Privilege Misuse,Mining,1990,NA,5
+System Intrusion,Accommodation,1031,NA,3
+Denial of Service (DoS),Administrative,632,APAC,5
+System Intrusion,Entertainment,609,EMEA,4
+Miscellaneous Errors,Retail,1784,EMEA,4
+Denial of Service (DoS),Administrative,958,NA,3
+Social Engineering,Agriculture,1376,LAC,2
+Miscellaneous Errors,Wholesale Trade,1307,EMEA,5
+Miscellaneous Errors,Public Administration,1696,NA,4
+System Intrusion,Finance,2319,APAC,2
+Basic Web-API Attacks,Retail,548,EMEA,1
+Denial of Service (DoS),Retail,1340,EMEA,2
+Lost and Stolen Assets,Administrative,1332,EMEA,2
+Social Engineering,Entertainment,1737,NA,4
+Denial of Service (DoS),Professional,2769,APAC,3
+Basic Web-API Attacks,Public Administration,1822,NA,2
+Privilege Misuse,Finance,1374,LAC,3
+Basic Web-API Attacks,Professional,2486,EMEA,3
+Basic Web-API Attacks,Transportation,124,APAC,5
+Lost and Stolen Assets,Public Administration,1180,LAC,5
+Denial of Service (DoS),Finance,2956,EMEA,1
+Denial of Service (DoS),Retail,1469,NA,4
+Miscellaneous Errors,Transportation,146,LAC,2
+Basic Web-API Attacks,Manufacturing,332,APAC,1
+Privilege Misuse,Public Administration,1746,LAC,3
+Social Engineering,Finance,2116,APAC,3
+Basic Web-API Attacks,Information,2325,EMEA,4
+Lost and Stolen Assets,Retail,2177,APAC,2
+System Intrusion,Healthcare,549,NA,3
+Miscellaneous Errors,Public Administration,2653,NA,5
+Privilege Misuse,Utilities,2547,APAC,2
+Privilege Misuse,Utilities,1992,EMEA,4
+Social Engineering,Administrative,1657,NA,1
+Social Engineering,Finance,2054,APAC,1
+Lost and Stolen Assets,Professional,2324,APAC,2
+System Intrusion,Information,2435,EMEA,2
+Basic Web-API Attacks,Transportation,677,NA,3
+Lost and Stolen Assets,Finance,2384,EMEA,3
+Denial of Service (DoS),Wholesale Trade,445,EMEA,4
+Basic Web-API Attacks,Healthcare,849,APAC,1
+Miscellaneous Errors,Entertainment,1787,NA,1
+Denial of Service (DoS),Wholesale Trade,1744,NA,5
+System Intrusion,Manufacturing,317,EMEA,4
+Basic Web-API Attacks,Agriculture,1075,APAC,4
+Denial of Service (DoS),Healthcare,2015,NA,2
+Basic Web-API Attacks,Professional,1075,EMEA,5
+Basic Web-API Attacks,Finance,1349,APAC,2
+Basic Web-API Attacks,Manufacturing,2812,NA,3
+Privilege Misuse,Retail,1355,EMEA,1
+Denial of Service (DoS),Transportation,2038,EMEA,1
+Basic Web-API Attacks,Administrative,270,APAC,4
+Social Engineering,Agriculture,718,EMEA,5
+Denial of Service (DoS),Manufacturing,468,EMEA,4
+Social Engineering,Wholesale Trade,1372,EMEA,3
+Miscellaneous Errors,Real Estate,1133,APAC,4
+Privilege Misuse,Utilities,144,APAC,1
+Miscellaneous Errors,Public Administration,1212,NA,4
+System Intrusion,Utilities,396,APAC,5
+Lost and Stolen Assets,Mining,335,NA,1
+Social Engineering,Information,110,APAC,2
+Privilege Misuse,Public Administration,2473,NA,5
+Denial of Service (DoS),Agriculture,2017,NA,3
+Lost and Stolen Assets,Transportation,453,EMEA,1
+Lost and Stolen Assets,Entertainment,347,APAC,3
+Denial of Service (DoS),Agriculture,347,EMEA,4
+Lost and Stolen Assets,Transportation,633,NA,4
+System Intrusion,Healthcare,2647,APAC,5
+Denial of Service (DoS),Public Administration,702,NA,1
+System Intrusion,Finance,2634,EMEA,3
+System Intrusion,Healthcare,500,APAC,5
+Privilege Misuse,Utilities,1486,APAC,4
+Lost and Stolen Assets,Transportation,1069,NA,5
+Social Engineering,Utilities,1887,EMEA,4
+Miscellaneous Errors,Wholesale Trade,1064,APAC,5
+Denial of Service (DoS),Transportation,746,EMEA,4
+Miscellaneous Errors,Manufacturing,683,EMEA,4
+Lost and Stolen Assets,Wholesale Trade,2222,NA,2
+Basic Web-API Attacks,Public Administration,122,APAC,5
+Privilege Misuse,Transportation,1191,EMEA,5
+Miscellaneous Errors,Accommodation,1257,NA,3
+Denial of Service (DoS),Transportation,2845,EMEA,2
+Privilege Misuse,Mining,2232,NA,1
+Miscellaneous Errors,Accommodation,801,EMEA,5
+Privilege Misuse,Retail,694,EMEA,1
+Miscellaneous Errors,Entertainment,194,NA,4
+System Intrusion,Information,2662,APAC,1
+Social Engineering,Public Administration,2647,NA,5
+Denial of Service (DoS),Public Administration,346,APAC,5
+Denial of Service (DoS),Accommodation,992,EMEA,3
+Social Engineering,Transportation,1661,LAC,4
+System Intrusion,Accommodation,1638,APAC,2
+Lost and Stolen Assets,Agriculture,2107,NA,2
+Basic Web-API Attacks,Transportation,252,NA,5
+Basic Web-API Attacks,Agriculture,2013,EMEA,5
+Privilege Misuse,Transportation,1296,NA,1
+Social Engineering,Retail,600,APAC,3
+Denial of Service (DoS),Utilities,1604,APAC,5
+Lost and Stolen Assets,Public Administration,312,APAC,3
+Social Engineering,Entertainment,1157,NA,1
+Basic Web-API Attacks,Transportation,1660,NA,3
+Privilege Misuse,Entertainment,2420,APAC,1
+System Intrusion,Agriculture,2032,NA,1
+Lost and Stolen Assets,Transportation,2293,EMEA,4
+Privilege Misuse,Public Administration,714,NA,5
+Privilege Misuse,Utilities,2430,NA,1
+System Intrusion,Retail,2286,LAC,1
+Miscellaneous Errors,Public Administration,1469,EMEA,5
+Miscellaneous Errors,Public Administration,2840,NA,4
+Basic Web-API Attacks,Agriculture,475,EMEA,2
+Basic Web-API Attacks,Utilities,577,NA,4
+Miscellaneous Errors,Healthcare,400,APAC,3
+Privilege Misuse,Transportation,1308,APAC,1
+Miscellaneous Errors,Utilities,335,EMEA,2
+System Intrusion,Utilities,2959,EMEA,2
+Basic Web-API Attacks,Public Administration,1135,NA,2
+Lost and Stolen Assets,Healthcare,2683,APAC,1
+Privilege Misuse,Public Administration,2359,EMEA,4
+Basic Web-API Attacks,Real Estate,1130,EMEA,3
+Miscellaneous Errors,Manufacturing,2200,APAC,1
+Miscellaneous Errors,Retail,1361,EMEA,2
+Denial of Service (DoS),Retail,166,NA,5
+System Intrusion,Retail,406,EMEA,2
+Privilege Misuse,Manufacturing,789,APAC,3
+Miscellaneous Errors,Information,2088,LAC,2
+System Intrusion,Accommodation,205,APAC,5
+Lost and Stolen Assets,Utilities,2299,APAC,4
+Privilege Misuse,Professional,624,EMEA,3
+Basic Web-API Attacks,Transportation,690,APAC,5
+Denial of Service (DoS),Entertainment,2329,NA,3
+Basic Web-API Attacks,Retail,2267,APAC,4
+Denial of Service (DoS),Mining,667,LAC,1
+Lost and Stolen Assets,Agriculture,2634,NA,2
+Basic Web-API Attacks,Utilities,2068,APAC,2
+Denial of Service (DoS),Wholesale Trade,2587,EMEA,5
+Privilege Misuse,Accommodation,1527,APAC,1
+System Intrusion,Manufacturing,2827,EMEA,2
+Privilege Misuse,Transportation,2134,EMEA,4
+Basic Web-API Attacks,Finance,476,EMEA,4
+Miscellaneous Errors,Transportation,561,EMEA,2
+Miscellaneous Errors,Real Estate,1326,NA,5
+System Intrusion,Utilities,214,APAC,2
+Basic Web-API Attacks,Transportation,2737,NA,3
+Denial of Service (DoS),Transportation,120,APAC,2
+Lost and Stolen Assets,Finance,1407,APAC,1
+System Intrusion,Public Administration,894,EMEA,3
+Denial of Service (DoS),Retail,988,NA,4
+Lost and Stolen Assets,Information,1392,APAC,4
+Social Engineering,Public Administration,2473,APAC,1
+Denial of Service (DoS),Wholesale Trade,866,EMEA,2
+Miscellaneous Errors,Information,1832,NA,4
+Denial of Service (DoS),Utilities,1373,EMEA,3
+Miscellaneous Errors,Professional,1518,NA,1
+Miscellaneous Errors,Transportation,1777,APAC,1
+Denial of Service (DoS),Finance,2784,EMEA,5
+Lost and Stolen Assets,Healthcare,687,EMEA,4
+Social Engineering,Manufacturing,2903,APAC,1
+Basic Web-API Attacks,Agriculture,1573,NA,1
+Miscellaneous Errors,Wholesale Trade,1486,APAC,2
+Miscellaneous Errors,Entertainment,476,EMEA,3
+Lost and Stolen Assets,Administrative,1704,LAC,3
+Privilege Misuse,Transportation,2917,EMEA,1
+Miscellaneous Errors,Transportation,253,EMEA,4
+Miscellaneous Errors,Utilities,1525,APAC,5
+Privilege Misuse,Utilities,1454,NA,1
+Basic Web-API Attacks,Professional,1914,EMEA,4
+Lost and Stolen Assets,Retail,1467,NA,4
+Miscellaneous Errors,Manufacturing,2620,NA,1
+System Intrusion,Real Estate,451,EMEA,4
+Miscellaneous Errors,Manufacturing,1682,LAC,2
+Miscellaneous Errors,Retail,2009,APAC,2
+Social Engineering,Accommodation,2456,APAC,4
+Privilege Misuse,Transportation,1725,EMEA,3
+Privilege Misuse,Utilities,2444,APAC,5
+Denial of Service (DoS),Utilities,2641,APAC,4
+Social Engineering,Agriculture,2369,NA,5
+Miscellaneous Errors,Transportation,1880,EMEA,2
+Miscellaneous Errors,Real Estate,2156,NA,1
+Privilege Misuse,Utilities,1773,APAC,4
+Miscellaneous Errors,Entertainment,293,EMEA,2
+Social Engineering,Information,2470,EMEA,1
+Miscellaneous Errors,Healthcare,1352,EMEA,4
+Privilege Misuse,Agriculture,1236,EMEA,2
+Basic Web-API Attacks,Transportation,2386,NA,2
+Lost and Stolen Assets,Manufacturing,234,APAC,1
+Lost and Stolen Assets,Healthcare,2741,NA,4
+Basic Web-API Attacks,Entertainment,2326,NA,1
+Social Engineering,Agriculture,317,EMEA,2
+System Intrusion,Entertainment,1771,APAC,2
+Lost and Stolen Assets,Administrative,2894,EMEA,2
+Miscellaneous Errors,Entertainment,2447,EMEA,3
+Privilege Misuse,Transportation,2842,NA,4
+System Intrusion,Transportation,517,APAC,2
+Miscellaneous Errors,Utilities,1032,NA,4
+System Intrusion,Public Administration,853,APAC,2
+Basic Web-API Attacks,Wholesale Trade,2192,APAC,2
+System Intrusion,Utilities,2970,EMEA,4
+Privilege Misuse,Retail,1330,NA,1
+Denial of Service (DoS),Administrative,2774,NA,2
+Privilege Misuse,Transportation,1272,APAC,4
+Basic Web-API Attacks,Utilities,1353,EMEA,2
+Denial of Service (DoS),Healthcare,984,EMEA,1
+System Intrusion,Retail,174,NA,5
+System Intrusion,Utilities,281,NA,4
+Miscellaneous Errors,Utilities,526,EMEA,3
+Privilege Misuse,Public Administration,790,EMEA,1
+Social Engineering,Accommodation,1591,APAC,3
+Lost and Stolen Assets,Wholesale Trade,318,EMEA,5
+Social Engineering,Administrative,295,NA,1
+Miscellaneous Errors,Transportation,2905,EMEA,1
+Privilege Misuse,Retail,642,APAC,2
+Lost and Stolen Assets,Retail,1175,APAC,2
+Basic Web-API Attacks,Public Administration,1544,APAC,2
+System Intrusion,Wholesale Trade,1824,EMEA,3
+Denial of Service (DoS),Retail,2363,NA,4
+Basic Web-API Attacks,Mining,2192,NA,2
+Social Engineering,Real Estate,2018,NA,5
+System Intrusion,Healthcare,2049,EMEA,1
+Denial of Service (DoS),Transportation,2253,APAC,4
+Privilege Misuse,Public Administration,1166,EMEA,4
+Miscellaneous Errors,Manufacturing,2494,APAC,1
+Privilege Misuse,Public Administration,807,EMEA,3
+Lost and Stolen Assets,Mining,601,APAC,5
+System Intrusion,Healthcare,926,APAC,1
+System Intrusion,Finance,733,APAC,4
+Lost and Stolen Assets,Healthcare,2581,APAC,1
+Miscellaneous Errors,Real Estate,379,NA,4
+Basic Web-API Attacks,Transportation,2092,APAC,4
+Denial of Service (DoS),Retail,1474,NA,2
+Lost and Stolen Assets,Finance,286,NA,2
+Social Engineering,Real Estate,793,EMEA,4
+Miscellaneous Errors,Real Estate,1007,NA,3
+Basic Web-API Attacks,Healthcare,2890,NA,5
+Denial of Service (DoS),Public Administration,163,APAC,2
+System Intrusion,Wholesale Trade,2100,NA,1
+Social Engineering,Transportation,598,EMEA,3
+Lost and Stolen Assets,Manufacturing,2741,EMEA,3
+Social Engineering,Public Administration,2541,NA,4
+Denial of Service (DoS),Information,2420,APAC,1
+System Intrusion,Public Administration,2960,EMEA,5
+Miscellaneous Errors,Wholesale Trade,576,APAC,4
+Social Engineering,Manufacturing,397,NA,1
+Miscellaneous Errors,Administrative,2466,APAC,4
+Miscellaneous Errors,Retail,640,EMEA,1
+Lost and Stolen Assets,Transportation,2310,NA,4
+Lost and Stolen Assets,Wholesale Trade,1338,NA,5
+Miscellaneous Errors,Finance,856,NA,5
+Privilege Misuse,Entertainment,230,EMEA,5
+System Intrusion,Manufacturing,1863,EMEA,2
+Basic Web-API Attacks,Entertainment,1649,EMEA,4
+Denial of Service (DoS),Transportation,502,EMEA,2
+Basic Web-API Attacks,Mining,2107,NA,4
+Basic Web-API Attacks,Manufacturing,1538,APAC,1
+Lost and Stolen Assets,Manufacturing,2739,EMEA,5
+Denial of Service (DoS),Finance,511,EMEA,4
+Denial of Service (DoS),Transportation,832,NA,4
+System Intrusion,Entertainment,279,NA,4
+Social Engineering,Mining,2955,EMEA,3
+Lost and Stolen Assets,Entertainment,160,APAC,2
+Basic Web-API Attacks,Agriculture,2637,EMEA,2
+Lost and Stolen Assets,Utilities,2075,EMEA,4
+Basic Web-API Attacks,Entertainment,1448,NA,5
+Miscellaneous Errors,Utilities,2856,NA,2
+Miscellaneous Errors,Public Administration,2611,NA,5
+Social Engineering,Accommodation,2431,APAC,2
+Denial of Service (DoS),Wholesale Trade,126,APAC,2
+Miscellaneous Errors,Retail,2601,APAC,2
+Lost and Stolen Assets,Accommodation,2955,NA,4
+Privilege Misuse,Entertainment,940,APAC,4
+Miscellaneous Errors,Information,1663,EMEA,1
+Denial of Service (DoS),Manufacturing,775,EMEA,2
+Social Engineering,Transportation,2288,NA,5
+Social Engineering,Manufacturing,2236,EMEA,2
+Miscellaneous Errors,Transportation,1702,EMEA,3
+Miscellaneous Errors,Transportation,297,NA,4
+Miscellaneous Errors,Administrative,2072,NA,3
+Miscellaneous Errors,Wholesale Trade,1461,EMEA,1
+Denial of Service (DoS),Retail,2195,EMEA,1
+Lost and Stolen Assets,Transportation,236,EMEA,4
+Basic Web-API Attacks,Retail,805,EMEA,4
+Lost and Stolen Assets,Utilities,979,EMEA,3
+Basic Web-API Attacks,Administrative,574,APAC,4
+Privilege Misuse,Real Estate,2080,LAC,4
+Social Engineering,Entertainment,2186,EMEA,2
+Miscellaneous Errors,Transportation,1046,EMEA,2
+Denial of Service (DoS),Public Administration,774,APAC,1
+Lost and Stolen Assets,Manufacturing,1459,EMEA,3
+Basic Web-API Attacks,Utilities,1091,EMEA,5
+Lost and Stolen Assets,Real Estate,961,EMEA,1
+Denial of Service (DoS),Transportation,1091,NA,3
+Social Engineering,Public Administration,1808,LAC,1
+Denial of Service (DoS),Accommodation,2774,APAC,1
+Denial of Service (DoS),Entertainment,1439,EMEA,3
+Miscellaneous Errors,Utilities,1392,EMEA,3
+Denial of Service (DoS),Construction,1809,NA,1
+Basic Web-API Attacks,Public Administration,2591,NA,4
+Privilege Misuse,Utilities,2169,NA,5
+Lost and Stolen Assets,Healthcare,2322,APAC,3
+Lost and Stolen Assets,Accommodation,1117,EMEA,5
+Lost and Stolen Assets,Accommodation,1297,APAC,1
+Privilege Misuse,Transportation,751,EMEA,5
+Denial of Service (DoS),Retail,2640,EMEA,5
+System Intrusion,Accommodation,2459,EMEA,1
+Social Engineering,Public Administration,975,EMEA,2
+Lost and Stolen Assets,Retail,2518,LAC,2
+Miscellaneous Errors,Utilities,792,NA,4
+System Intrusion,Construction,1901,EMEA,5
+Social Engineering,Agriculture,1143,NA,4
+Denial of Service (DoS),Utilities,787,APAC,2
+System Intrusion,Transportation,2095,EMEA,4
+Lost and Stolen Assets,Manufacturing,1073,APAC,2
+System Intrusion,Real Estate,2166,EMEA,5
+System Intrusion,Accommodation,2817,EMEA,2
+Lost and Stolen Assets,Utilities,2896,NA,4
+Denial of Service (DoS),Construction,2696,EMEA,1
+Miscellaneous Errors,Public Administration,436,EMEA,5
+Basic Web-API Attacks,Agriculture,1855,EMEA,4
+Denial of Service (DoS),Public Administration,1733,NA,1
+Miscellaneous Errors,Public Administration,1344,APAC,4
+Basic Web-API Attacks,Entertainment,2390,APAC,4
+Miscellaneous Errors,Healthcare,1727,NA,5
+Denial of Service (DoS),Retail,971,NA,5
+Privilege Misuse,Entertainment,2532,EMEA,3
+Social Engineering,Public Administration,800,EMEA,1
+Basic Web-API Attacks,Transportation,581,APAC,5
+Basic Web-API Attacks,Public Administration,668,EMEA,2
+System Intrusion,Mining,849,EMEA,1
+Lost and Stolen Assets,Transportation,2173,NA,4
+System Intrusion,Real Estate,2125,APAC,1
+Basic Web-API Attacks,Manufacturing,2634,NA,4
+Privilege Misuse,Retail,981,NA,1
+System Intrusion,Public Administration,2696,APAC,2
+Denial of Service (DoS),Accommodation,2719,APAC,3
+Miscellaneous Errors,Retail,2613,EMEA,5
+Social Engineering,Public Administration,363,NA,3
+Basic Web-API Attacks,Utilities,715,LAC,2
+Social Engineering,Professional,992,APAC,4
+Social Engineering,Utilities,340,NA,4
+Denial of Service (DoS),Transportation,1195,APAC,5
+Privilege Misuse,Information,942,APAC,2
+Denial of Service (DoS),Transportation,2608,APAC,1
+Lost and Stolen Assets,Transportation,2224,EMEA,3
+Denial of Service (DoS),Information,2405,APAC,2
+Social Engineering,Public Administration,2749,NA,2
+Privilege Misuse,Retail,2921,LAC,3
+Lost and Stolen Assets,Professional,353,APAC,4
+Basic Web-API Attacks,Real Estate,2911,EMEA,4
+Social Engineering,Transportation,580,EMEA,4
+Miscellaneous Errors,Retail,578,EMEA,3
+Social Engineering,Retail,2371,NA,2
+System Intrusion,Transportation,1281,APAC,4
+Privilege Misuse,Public Administration,2666,LAC,2
+Social Engineering,Entertainment,1408,APAC,5
+Miscellaneous Errors,Wholesale Trade,1794,NA,5
+Social Engineering,Finance,2901,NA,4
+Privilege Misuse,Professional,1068,APAC,2
+System Intrusion,Public Administration,1867,NA,1
+Miscellaneous Errors,Retail,2930,APAC,4
+Miscellaneous Errors,Information,2961,NA,3
+Lost and Stolen Assets,Utilities,2247,EMEA,3
+Privilege Misuse,Transportation,416,EMEA,5
+Basic Web-API Attacks,Healthcare,1985,NA,3
+Miscellaneous Errors,Retail,364,LAC,1
+Social Engineering,Utilities,2850,EMEA,2
+Denial of Service (DoS),Public Administration,1971,LAC,5
+Denial of Service (DoS),Retail,1356,EMEA,4
+Denial of Service (DoS),Finance,1607,APAC,4
+Basic Web-API Attacks,Public Administration,2375,APAC,3
+Privilege Misuse,Public Administration,2669,LAC,3
+Lost and Stolen Assets,Utilities,544,APAC,5
+Lost and Stolen Assets,Healthcare,2559,NA,2
+System Intrusion,Professional,2280,APAC,3
+Basic Web-API Attacks,Construction,2982,NA,2
+Lost and Stolen Assets,Construction,1951,APAC,3
+Lost and Stolen Assets,Retail,274,APAC,1
+Privilege Misuse,Agriculture,2086,EMEA,5
+Lost and Stolen Assets,Real Estate,2431,EMEA,3
+System Intrusion,Accommodation,1554,APAC,4
+System Intrusion,Real Estate,2751,EMEA,5
+Denial of Service (DoS),Transportation,2274,EMEA,5
+Basic Web-API Attacks,Wholesale Trade,1045,NA,2
+Social Engineering,Manufacturing,2346,NA,2
+Lost and Stolen Assets,Healthcare,2311,EMEA,2
+Lost and Stolen Assets,Mining,220,LAC,3
+Miscellaneous Errors,Entertainment,461,NA,2
+Social Engineering,Retail,1383,NA,5
+Denial of Service (DoS),Administrative,2830,APAC,5
+Social Engineering,Real Estate,747,APAC,1
+Basic Web-API Attacks,Manufacturing,581,APAC,2
+Lost and Stolen Assets,Transportation,1703,APAC,5
+Basic Web-API Attacks,Wholesale Trade,602,NA,3
+Privilege Misuse,Utilities,2805,NA,5
+Lost and Stolen Assets,Transportation,405,EMEA,3
+Basic Web-API Attacks,Transportation,1580,APAC,1
+Privilege Misuse,Entertainment,2908,EMEA,2
+Social Engineering,Utilities,2956,LAC,5
+Miscellaneous Errors,Wholesale Trade,2793,EMEA,5
+Miscellaneous Errors,Wholesale Trade,209,NA,1
+Basic Web-API Attacks,Agriculture,2521,NA,2
+Privilege Misuse,Public Administration,1023,APAC,1
+System Intrusion,Construction,2242,APAC,4
+Basic Web-API Attacks,Manufacturing,276,APAC,1
+Denial of Service (DoS),Utilities,2572,LAC,5
+Lost and Stolen Assets,Accommodation,2848,APAC,4
+Miscellaneous Errors,Agriculture,555,EMEA,5
+Privilege Misuse,Transportation,2519,APAC,3
+Denial of Service (DoS),Entertainment,871,NA,5
+System Intrusion,Real Estate,2879,LAC,2
+System Intrusion,Utilities,142,EMEA,1
+System Intrusion,Retail,230,EMEA,2
+Social Engineering,Entertainment,1787,NA,1
+Social Engineering,Real Estate,1055,NA,2
+System Intrusion,Manufacturing,475,APAC,2
+Miscellaneous Errors,Manufacturing,1808,LAC,1
+Social Engineering,Utilities,2990,NA,4
+Privilege Misuse,Utilities,1278,NA,4
+Social Engineering,Mining,1514,APAC,5
+Lost and Stolen Assets,Agriculture,631,APAC,5
+Lost and Stolen Assets,Healthcare,410,EMEA,3
+System Intrusion,Utilities,1703,NA,1
+Miscellaneous Errors,Utilities,632,LAC,3
+Denial of Service (DoS),Information,1492,APAC,2
+Privilege Misuse,Entertainment,1804,NA,4
+Basic Web-API Attacks,Public Administration,1016,NA,1
+Miscellaneous Errors,Retail,828,APAC,2
+Privilege Misuse,Entertainment,2617,EMEA,4
+Denial of Service (DoS),Retail,287,APAC,4
+System Intrusion,Transportation,1789,APAC,4
+Denial of Service (DoS),Manufacturing,1211,APAC,1
+Basic Web-API Attacks,Agriculture,833,APAC,2
+Social Engineering,Transportation,1782,APAC,5
+Basic Web-API Attacks,Information,725,EMEA,3
+Denial of Service (DoS),Mining,1141,NA,4
+Lost and Stolen Assets,Entertainment,160,NA,4
+Lost and Stolen Assets,Public Administration,1562,NA,5
+Basic Web-API Attacks,Entertainment,2311,NA,4
+Miscellaneous Errors,Agriculture,1361,APAC,1
+Social Engineering,Retail,1013,NA,3
+Denial of Service (DoS),Public Administration,2795,APAC,2
+Basic Web-API Attacks,Public Administration,162,APAC,1
+Social Engineering,Transportation,1443,EMEA,2
+Social Engineering,Utilities,2343,EMEA,2
+System Intrusion,Entertainment,1410,APAC,1
+Miscellaneous Errors,Entertainment,1653,NA,4
+System Intrusion,Public Administration,1779,LAC,2
+Social Engineering,Manufacturing,1103,EMEA,1
+Social Engineering,Retail,331,APAC,5
+Basic Web-API Attacks,Manufacturing,1823,APAC,2
+Social Engineering,Public Administration,588,APAC,2
+Social Engineering,Manufacturing,433,NA,5
+Miscellaneous Errors,Public Administration,2518,APAC,2
+Miscellaneous Errors,Construction,2064,EMEA,1
+Miscellaneous Errors,Finance,2840,NA,4
+Basic Web-API Attacks,Wholesale Trade,1705,EMEA,2
+Lost and Stolen Assets,Professional,746,EMEA,2
+Social Engineering,Construction,1134,APAC,5
+Lost and Stolen Assets,Entertainment,1005,APAC,1
+Lost and Stolen Assets,Public Administration,1600,APAC,1
+Miscellaneous Errors,Information,2289,NA,1
+Miscellaneous Errors,Transportation,951,NA,5
+Privilege Misuse,Public Administration,740,NA,2
+Basic Web-API Attacks,Retail,2075,NA,5
+Miscellaneous Errors,Agriculture,225,EMEA,1
+Social Engineering,Finance,457,EMEA,5
+System Intrusion,Utilities,2406,NA,4
+Social Engineering,Administrative,2690,EMEA,1
+Basic Web-API Attacks,Agriculture,1378,EMEA,4
+Privilege Misuse,Public Administration,1679,NA,5
+Social Engineering,Public Administration,140,EMEA,3
+Social Engineering,Construction,197,NA,4
+System Intrusion,Finance,822,EMEA,3
+Denial of Service (DoS),Public Administration,1574,APAC,5
+Social Engineering,Utilities,1966,NA,5
+Miscellaneous Errors,Entertainment,1729,EMEA,3
+Miscellaneous Errors,Finance,1223,APAC,1
+Denial of Service (DoS),Public Administration,2675,APAC,2
+Social Engineering,Agriculture,2852,NA,5
+System Intrusion,Entertainment,162,EMEA,2
+Privilege Misuse,Wholesale Trade,2205,APAC,1
+Miscellaneous Errors,Entertainment,1445,NA,3
+Social Engineering,Accommodation,565,EMEA,3
+System Intrusion,Wholesale Trade,2342,APAC,1
+Miscellaneous Errors,Manufacturing,2382,APAC,3
+System Intrusion,Public Administration,292,NA,1
+Privilege Misuse,Administrative,2024,APAC,4
+Miscellaneous Errors,Healthcare,1909,APAC,4
+Social Engineering,Agriculture,2644,EMEA,4
+Basic Web-API Attacks,Healthcare,2127,APAC,3
+Denial of Service (DoS),Retail,2750,LAC,4
+Privilege Misuse,Public Administration,507,EMEA,1
+Basic Web-API Attacks,Transportation,2379,EMEA,5
+Social Engineering,Healthcare,489,EMEA,5
+Social Engineering,Accommodation,253,NA,2
+Privilege Misuse,Transportation,570,EMEA,1
+Denial of Service (DoS),Real Estate,2291,LAC,5
+Denial of Service (DoS),Mining,1989,APAC,5
+Miscellaneous Errors,Administrative,2839,APAC,1
+Privilege Misuse,Entertainment,2413,EMEA,4
+Miscellaneous Errors,Transportation,1896,EMEA,2
+Basic Web-API Attacks,Retail,1389,NA,1
+Denial of Service (DoS),Utilities,1246,APAC,5
+Miscellaneous Errors,Transportation,2776,APAC,5
+Social Engineering,Public Administration,1901,EMEA,2
+Social Engineering,Transportation,861,NA,4
+Social Engineering,Mining,2551,APAC,5
+Lost and Stolen Assets,Information,1180,EMEA,2
+Lost and Stolen Assets,Finance,1850,APAC,5
+System Intrusion,Retail,1273,NA,2
+Denial of Service (DoS),Retail,391,APAC,4
+Social Engineering,Retail,1395,APAC,1
+Miscellaneous Errors,Transportation,865,NA,3
+Basic Web-API Attacks,Real Estate,1021,EMEA,4
+Basic Web-API Attacks,Construction,2945,NA,3
+Lost and Stolen Assets,Information,1439,EMEA,3
+Lost and Stolen Assets,Finance,1845,NA,5
+System Intrusion,Transportation,1344,APAC,1
+Denial of Service (DoS),Utilities,2344,NA,3
+Basic Web-API Attacks,Transportation,1566,APAC,2
+Lost and Stolen Assets,Transportation,2133,EMEA,2
+Social Engineering,Information,112,APAC,2
+Social Engineering,Transportation,1783,EMEA,3
+Miscellaneous Errors,Administrative,1249,APAC,3
+System Intrusion,Transportation,2220,EMEA,5
+Lost and Stolen Assets,Accommodation,509,EMEA,1
+Lost and Stolen Assets,Administrative,918,NA,4
+Social Engineering,Transportation,824,APAC,1
+Privilege Misuse,Retail,2622,LAC,4
+Denial of Service (DoS),Information,625,EMEA,2
+Privilege Misuse,Healthcare,645,EMEA,2
+Privilege Misuse,Public Administration,1251,NA,3
+Basic Web-API Attacks,Healthcare,1082,APAC,4
+Lost and Stolen Assets,Healthcare,231,NA,4
+Basic Web-API Attacks,Agriculture,1904,NA,1
+Lost and Stolen Assets,Retail,2347,APAC,4
+System Intrusion,Healthcare,253,APAC,3
+Lost and Stolen Assets,Wholesale Trade,2550,APAC,2
+Denial of Service (DoS),Transportation,535,EMEA,5
+System Intrusion,Retail,419,APAC,4
+System Intrusion,Utilities,420,APAC,2
+Denial of Service (DoS),Utilities,2098,NA,1
+Social Engineering,Finance,664,NA,2
+Social Engineering,Retail,1227,NA,5
+Denial of Service (DoS),Entertainment,352,NA,5
+Lost and Stolen Assets,Transportation,1917,NA,2
+Basic Web-API Attacks,Public Administration,1384,EMEA,3
+Denial of Service (DoS),Healthcare,224,APAC,3
+Lost and Stolen Assets,Information,314,EMEA,2
+Basic Web-API Attacks,Finance,1671,NA,4
+Lost and Stolen Assets,Public Administration,2949,NA,1
+Lost and Stolen Assets,Entertainment,171,APAC,2
+Social Engineering,Public Administration,2366,NA,4
+Denial of Service (DoS),Finance,402,EMEA,5
+System Intrusion,Administrative,1263,EMEA,4
+Miscellaneous Errors,Agriculture,2072,NA,2
+Lost and Stolen Assets,Mining,283,EMEA,5
+Privilege Misuse,Wholesale Trade,871,NA,1
+Denial of Service (DoS),Manufacturing,506,NA,5
+Lost and Stolen Assets,Transportation,2453,APAC,2
+Social Engineering,Professional,1973,NA,4
+Lost and Stolen Assets,Entertainment,1738,APAC,5
+Social Engineering,Healthcare,725,NA,1
+Basic Web-API Attacks,Public Administration,1217,NA,3
+Lost and Stolen Assets,Finance,1691,NA,2
+System Intrusion,Public Administration,1417,APAC,3
+Denial of Service (DoS),Manufacturing,2002,NA,3
+Miscellaneous Errors,Retail,2398,EMEA,2
+Denial of Service (DoS),Information,1251,EMEA,1
+Privilege Misuse,Retail,1108,LAC,2
+System Intrusion,Administrative,1278,LAC,2
+Lost and Stolen Assets,Transportation,2285,NA,2
+System Intrusion,Retail,1939,APAC,3
+Social Engineering,Transportation,2542,EMEA,5
+Lost and Stolen Assets,Transportation,2243,EMEA,4
+Denial of Service (DoS),Healthcare,1847,NA,4
+System Intrusion,Professional,2293,NA,2
+Miscellaneous Errors,Manufacturing,1200,NA,5
+Basic Web-API Attacks,Accommodation,2217,NA,1
+Miscellaneous Errors,Entertainment,1199,NA,1
+Lost and Stolen Assets,Transportation,2330,NA,5
+System Intrusion,Public Administration,855,EMEA,2
+Basic Web-API Attacks,Information,2262,NA,3
+Basic Web-API Attacks,Public Administration,387,APAC,4
+Privilege Misuse,Healthcare,2574,NA,5
+Miscellaneous Errors,Transportation,2975,EMEA,2
+System Intrusion,Real Estate,655,NA,2
+Miscellaneous Errors,Retail,1628,NA,5
+Miscellaneous Errors,Transportation,2413,NA,3
+System Intrusion,Manufacturing,2062,EMEA,3
+Lost and Stolen Assets,Retail,696,NA,2
+Privilege Misuse,Public Administration,2720,EMEA,4
+System Intrusion,Entertainment,115,NA,2
+Denial of Service (DoS),Real Estate,1679,EMEA,4
+Lost and Stolen Assets,Retail,335,LAC,2
+Social Engineering,Public Administration,1524,EMEA,2
+Social Engineering,Public Administration,1541,APAC,4
+System Intrusion,Information,436,EMEA,3
+Miscellaneous Errors,Retail,2509,EMEA,2
+System Intrusion,Transportation,1058,NA,1
+System Intrusion,Agriculture,2207,NA,3
+Privilege Misuse,Transportation,619,NA,3
+System Intrusion,Utilities,1485,NA,1
+Denial of Service (DoS),Retail,2526,LAC,2
+Lost and Stolen Assets,Agriculture,1549,EMEA,4
+Social Engineering,Wholesale Trade,170,EMEA,1
+Lost and Stolen Assets,Agriculture,315,NA,3
+Lost and Stolen Assets,Transportation,1010,EMEA,5
+Social Engineering,Professional,1436,APAC,2
+Miscellaneous Errors,Public Administration,1242,NA,5
+Denial of Service (DoS),Entertainment,705,NA,5
+Privilege Misuse,Transportation,1675,EMEA,4
+Miscellaneous Errors,Retail,2891,EMEA,4
+Lost and Stolen Assets,Utilities,1647,LAC,2
+Social Engineering,Utilities,728,APAC,5
+Social Engineering,Real Estate,960,NA,5
+Miscellaneous Errors,Public Administration,2792,APAC,2
+Privilege Misuse,Retail,2323,NA,2
+Denial of Service (DoS),Manufacturing,226,EMEA,4
+Privilege Misuse,Real Estate,1611,APAC,3
+Lost and Stolen Assets,Accommodation,1465,EMEA,4
+Social Engineering,Entertainment,1280,LAC,5
+Denial of Service (DoS),Public Administration,886,APAC,2
+Basic Web-API Attacks,Utilities,1295,EMEA,5
+Denial of Service (DoS),Entertainment,1351,NA,1
+Basic Web-API Attacks,Manufacturing,2800,NA,1
+Lost and Stolen Assets,Utilities,233,EMEA,5
+Social Engineering,Agriculture,2765,EMEA,4
+System Intrusion,Wholesale Trade,110,NA,4
+System Intrusion,Wholesale Trade,2708,NA,3
+System Intrusion,Accommodation,1679,NA,2
+Miscellaneous Errors,Retail,2427,NA,4
+Privilege Misuse,Utilities,2172,EMEA,4
+Lost and Stolen Assets,Entertainment,2716,EMEA,1
+Miscellaneous Errors,Agriculture,2358,NA,4
+Lost and Stolen Assets,Accommodation,1318,NA,5
+Privilege Misuse,Healthcare,173,EMEA,4
+Miscellaneous Errors,Healthcare,1785,LAC,2
+Lost and Stolen Assets,Agriculture,1683,APAC,2
+Social Engineering,Entertainment,483,NA,5
+Basic Web-API Attacks,Transportation,1934,LAC,4
+Basic Web-API Attacks,Transportation,120,NA,2
+Denial of Service (DoS),Accommodation,2325,NA,5
+Miscellaneous Errors,Entertainment,1665,LAC,1
+System Intrusion,Public Administration,330,NA,3
+Denial of Service (DoS),Transportation,1841,EMEA,2
+Social Engineering,Retail,1426,APAC,4
+Basic Web-API Attacks,Accommodation,870,APAC,1
+Miscellaneous Errors,Retail,934,APAC,2
+Lost and Stolen Assets,Retail,1053,APAC,1
+Social Engineering,Real Estate,1463,EMEA,5
+Denial of Service (DoS),Transportation,1575,EMEA,4
+Privilege Misuse,Accommodation,2662,APAC,4
+Denial of Service (DoS),Retail,2243,APAC,4
+Lost and Stolen Assets,Utilities,1858,APAC,4
+Social Engineering,Public Administration,1440,NA,3
+Basic Web-API Attacks,Transportation,925,EMEA,5
+Miscellaneous Errors,Manufacturing,779,NA,2
+System Intrusion,Professional,2464,NA,1
+Miscellaneous Errors,Entertainment,2262,APAC,3
+Basic Web-API Attacks,Public Administration,1164,EMEA,2
+Miscellaneous Errors,Finance,1534,NA,3
+System Intrusion,Accommodation,2412,EMEA,3
+Lost and Stolen Assets,Public Administration,1412,NA,1
+Lost and Stolen Assets,Mining,1492,EMEA,1
+Social Engineering,Utilities,373,APAC,2
+Miscellaneous Errors,Entertainment,793,APAC,5
+Privilege Misuse,Retail,2914,EMEA,1
+Privilege Misuse,Public Administration,2377,LAC,5
+Social Engineering,Agriculture,108,EMEA,3
+System Intrusion,Information,1120,EMEA,2
+Social Engineering,Utilities,301,NA,4
+Lost and Stolen Assets,Entertainment,2988,EMEA,2
+Denial of Service (DoS),Entertainment,2866,EMEA,3
+Basic Web-API Attacks,Agriculture,625,EMEA,2
+Miscellaneous Errors,Utilities,1549,EMEA,1
+Denial of Service (DoS),Public Administration,2689,NA,4
+Miscellaneous Errors,Wholesale Trade,2325,EMEA,5
+Privilege Misuse,Accommodation,241,NA,4

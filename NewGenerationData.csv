@@ -1,0 +1,2001 @@
+Название угрозы,Коэффициент угрозы,Отрасль компании,Коэффициент отрасли,Кол-во сотрудников,Регион,Коэффициент региона,Вероятность возникновения угрозы
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Privilege Misuse,0.7,Public Administration,0.2,38,APAC,0.25,0.297
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Lost and Stolen Assets,0.07,Agriculture,0.5,20,LAC,0.12,0.17750000000000002
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Privilege Misuse,0.7,Manufacturing,0.2,80,APAC,0.23,0.3025
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Lost and Stolen Assets,0.07,Retail,0.3,12,NA,0.21,0.148
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Miscellaneous Errors,0.85,Public Administration,0.2,70,NA,0.21,0.3325
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Lost and Stolen Assets,0.07,Transportation,0.3,150,EMEA,0.25,0.1925
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+System Intrusion,0.49,Information,0.2,15,APAC,0.33,0.25875
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+System Intrusion,0.49,Agriculture,0.5,100,EMEA,0.33,0.35500000000000004
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Miscellaneous Errors,0.85,Transportation,0.3,15,APAC,0.25,0.35374999999999995
+Miscellaneous Errors,0.85,Retail,0.3,100,EMEA,0.25,0.375
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Privilege Misuse,0.7,Utilities,0.2,23,EMEA,0.25,0.29324999999999996
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Miscellaneous Errors,0.85,Real Estate,0.6,300,LAC,0.12,0.46749999999999997
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Basic Web-API Attacks,0.93,Real Estate,0.6,100,NA,0.41,0.51
+System Intrusion,0.49,Entertainment,0.2,80,NA,0.41,0.295
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Miscellaneous Errors,0.85,Transportation,0.3,80,NA,0.41,0.41
+Social Engineering,0.54,Utilities,0.2,400,EMEA,0.33,0.36750000000000005
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Privilege Misuse,0.7,Transportation,0.3,54,NA,0.21,0.316
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Social Engineering,0.54,Wholesale Trade,0.5,150,NA,0.41,0.39999999999999997
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+System Intrusion,0.49,Healthcare,0.8,40,EMEA,0.33,0.41500000000000004
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Denial of Service (DoS),0.01,Healthcare,0.8,90,NA,0.41,0.3275
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Lost and Stolen Assets,0.07,Entertainment,0.2,60,APAC,0.33,0.16500000000000004
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+System Intrusion,0.49,Finance,0.3,80,NA,0.41,0.32
+Lost and Stolen Assets,0.07,Accommodation,0.2,100,EMEA,0.33,0.17500000000000002
+Denial of Service (DoS),0.01,Utilities,0.2,28,NA,0.21,0.11200000000000002
+Denial of Service (DoS),0.01,Finance,0.3,80,APAC,0.23,0.155
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Social Engineering,0.54,Public Administration,0.2,90,APAC,0.25,0.27
+Basic Web-API Attacks,0.93,Transportation,0.3,60,EMEA,0.25,0.385
+Basic Web-API Attacks,0.93,Retail,0.3,80,NA,0.21,0.38
+Denial of Service (DoS),0.01,Public Administration,0.2,41,EMEA,0.25,0.12525
+Basic Web-API Attacks,0.93,Mining,0.4,200,EMEA,0.33,0.465
+Privilege Misuse,0.7,Information,0.2,15,EMEA,0.33,0.31124999999999997
+Lost and Stolen Assets,0.07,Utilities,0.2,84,APAC,0.23,0.146
+Denial of Service (DoS),0.01,Retail,0.3,17,APAC,0.25,0.14425000000000002
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Privilege Misuse,0.7,Accommodation,0.2,40,NA,0.41,0.33749999999999997
+System Intrusion,0.49,Construction,0.7,300,APAC,0.23,0.43
+Denial of Service (DoS),0.01,Transportation,0.3,60,EMEA,0.33,0.175
+Social Engineering,0.54,Entertainment,0.2,120,LAC,0.12,0.245
+Social Engineering,0.54,Professional,0.3,30,EMEA,0.25,0.28
+Social Engineering,0.54,Manufacturing,0.2,40,NA,0.41,0.2975
+Basic Web-API Attacks,0.93,Utilities,0.2,20,APAC,0.25,0.35000000000000003
+Miscellaneous Errors,0.85,Administrative,0.8,150,APAC,0.23,0.5075
+Basic Web-API Attacks,0.93,Wholesale Trade,0.5,70,APAC,0.23,0.43250000000000005

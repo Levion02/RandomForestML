@@ -1,0 +1,253 @@
+Название угрозы,Отрасль компании,Кол-во сотрудников,Регион,Вероятность возникновения угрозы
+System Intrusion,Accommodation,248,APAC,0.07635493291777036
+Social Engineering,Accommodation,242,APAC,0.08297672490509501
+Basic Web-API Attacks,Accommodation,381,APAC,0.2241431593362924
+Miscellaneous Errors,Accommodation,136,APAC,0.07265311618461108
+Denial of Service (DoS),Accommodation,39,APAC,1.568286651160631e-05
+Privilege Misuse,Accommodation,400,APAC,0.17822487299343612
+Lost and Stolen Assets,Accommodation,426,APAC,0.02034672704538542
+System Intrusion,Accommodation,346,EMEA,0.11311066349250035
+Social Engineering,Accommodation,235,EMEA,0.08555606810392345
+Basic Web-API Attacks,Accommodation,378,EMEA,0.23612085397811783
+Miscellaneous Errors,Accommodation,343,EMEA,0.19455907380932824
+Denial of Service (DoS),Accommodation,27,EMEA,1.1528336245794068e-05
+Privilege Misuse,Accommodation,71,EMEA,0.03358989941099648
+Lost and Stolen Assets,Accommodation,369,EMEA,0.018713428322437404
+System Intrusion,Accommodation,452,LAC,0.07206373313647274
+Social Engineering,Accommodation,400,LAC,0.07102215026859961
+Basic Web-API Attacks,Accommodation,135,LAC,0.04112701449701965
+Miscellaneous Errors,Accommodation,64,LAC,0.017704685414649188
+Denial of Service (DoS),Accommodation,168,LAC,3.498348112208328e-05
+Privilege Misuse,Accommodation,391,LAC,0.09021483980631974
+Lost and Stolen Assets,Accommodation,411,LAC,0.010165287921184459
+System Intrusion,Accommodation,154,NA,0.043029699492143046
+Social Engineering,Accommodation,296,NA,0.0921074602726452
+Basic Web-API Attacks,Accommodation,230,NA,0.12279778200957876
+Miscellaneous Errors,Accommodation,300,NA,0.14544498994977614
+Denial of Service (DoS),Accommodation,449,NA,0.0001638586426550021
+Privilege Misuse,Accommodation,335,NA,0.13546131984223225
+Lost and Stolen Assets,Accommodation,88,NA,0.0038144313682682584
+System Intrusion,Education,56,APAC,0.030840315930894074
+Social Engineering,Education,197,APAC,0.12082380866025913
+Basic Web-API Attacks,Education,108,APAC,0.11365005262121869
+Miscellaneous Errors,Education,22,APAC,0.02102245304678991
+Denial of Service (DoS),Education,150,APAC,0.00010789404371473465
+Privilege Misuse,Education,132,APAC,0.10520287925570294
+Lost and Stolen Assets,Education,339,APAC,0.028962098772894882
+System Intrusion,Education,213,EMEA,0.12455249361457409
+Social Engineering,Education,41,EMEA,0.026700056734619688
+Basic Web-API Attacks,Education,407,EMEA,0.45476007233307
+Miscellaneous Errors,Education,410,EMEA,0.4159935520573121
+Denial of Service (DoS),Education,392,EMEA,0.00029938794557152415
+Privilege Misuse,Education,435,EMEA,0.3681162453799843
+Lost and Stolen Assets,Education,487,EMEA,0.044177519306631205
+System Intrusion,Education,356,LAC,0.10152516211411583
+Social Engineering,Education,446,LAC,0.14164917730683166
+Basic Web-API Attacks,Education,160,LAC,0.08718841258001453
+Miscellaneous Errors,Education,401,LAC,0.19842572933799274
+Denial of Service (DoS),Education,473,LAC,0.0001761814800875809
+Privilege Misuse,Education,123,LAC,0.05076351761876447
+Lost and Stolen Assets,Education,495,LAC,0.0218992092514054
+System Intrusion,Education,225,NA,0.11245414880080369
+Social Engineering,Education,208,NA,0.11577420396660619
+Basic Web-API Attacks,Education,481,NA,0.45935995772315596
+Miscellaneous Errors,Education,447,NA,0.38764162603093155
+Denial of Service (DoS),Education,46,NA,3.002798677469564e-05
+Privilege Misuse,Education,306,NA,0.22132847642248601
+Lost and Stolen Assets,Education,12,NA,0.0009304086756147286
+System Intrusion,Finance,216,APAC,0.0650848251141506
+Social Engineering,Finance,167,APAC,0.056039979318001164
+Basic Web-API Attacks,Finance,45,APAC,0.02590917588012627
+Miscellaneous Errors,Finance,450,APAC,0.23527101377003157
+Denial of Service (DoS),Finance,470,APAC,0.00018496913633499592
+Privilege Misuse,Finance,343,APAC,0.14956949060750843
+Lost and Stolen Assets,Finance,462,APAC,0.021595711020881543
+System Intrusion,Finance,304,EMEA,0.09726164412748657
+Social Engineering,Finance,51,EMEA,0.018171622380894644
+Basic Web-API Attacks,Finance,47,EMEA,0.028733000162998814
+Miscellaneous Errors,Finance,376,EMEA,0.20873043923218043
+Denial of Service (DoS),Finance,259,EMEA,0.00010822889063929679
+Privilege Misuse,Finance,456,EMEA,0.21113283010925663
+Lost and Stolen Assets,Finance,199,EMEA,0.009876899625823303
+System Intrusion,Finance,212,LAC,0.03307918144945418
+Social Engineering,Finance,59,LAC,0.010252420471923006
+Basic Web-API Attacks,Finance,90,LAC,0.026833448965432802
+Miscellaneous Errors,Finance,493,LAC,0.13347370984338075
+Denial of Service (DoS),Finance,356,LAC,7.255115172340599e-05
+Privilege Misuse,Finance,18,LAC,0.0040645671415724905
+Lost and Stolen Assets,Finance,338,LAC,0.00818154143980613
+System Intrusion,Finance,101,NA,0.02761910098640511
+Social Engineering,Finance,292,NA,0.08892554177501825
+Basic Web-API Attacks,Finance,226,NA,0.11808961254555879
+Miscellaneous Errors,Finance,23,NA,0.010913044326824972
+Denial of Service (DoS),Finance,271,NA,9.67905315335081e-05
+Privilege Misuse,Finance,129,NA,0.05105059144753402
+Lost and Stolen Assets,Finance,433,NA,0.0183685807310709
+System Intrusion,Healthcare,182,APAC,0.17382362268120224
+Social Engineering,Healthcare,218,APAC,0.23187258654420279
+Basic Web-API Attacks,Healthcare,474,APAC,0.8650293535214852
+Miscellaneous Errors,Healthcare,156,APAC,0.2585186779133252
+Denial of Service (DoS),Healthcare,476,APAC,0.0005937720919525913
+Privilege Misuse,Healthcare,491,APAC,0.6786436729257339
+Lost and Stolen Assets,Healthcare,168,APAC,0.0248912227551965
+System Intrusion,Healthcare,68,EMEA,0.06895858694089435
+Social Engineering,Healthcare,144,EMEA,0.1626287923807771
+Basic Web-API Attacks,Healthcare,438,EMEA,0.8487282260751169
+Miscellaneous Errors,Healthcare,439,EMEA,0.7724562298963478
+Denial of Service (DoS),Healthcare,391,EMEA,0.0005178829557618521
+Privilege Misuse,Healthcare,430,EMEA,0.6310602133426834
+Lost and Stolen Assets,Healthcare,393,EMEA,0.06182605445203731
+System Intrusion,Healthcare,148,LAC,0.07319678845621697
+Social Engineering,Healthcare,372,LAC,0.2048937708316972
+Basic Web-API Attacks,Healthcare,490,LAC,0.46306449751932616
+Miscellaneous Errors,Healthcare,157,LAC,0.1347286265777774
+Denial of Service (DoS),Healthcare,207,LAC,0.00013371375235268876
+Privilege Misuse,Healthcare,477,LAC,0.3414063493525029
+Lost and Stolen Assets,Healthcare,209,LAC,0.016035264874128357
+System Intrusion,Healthcare,391,NA,0.33890372273602803
+Social Engineering,Healthcare,132,NA,0.1274174816997184
+Basic Web-API Attacks,Healthcare,432,NA,0.7154815236408864
+Miscellaneous Errors,Healthcare,50,NA,0.07519682524275448
+Denial of Service (DoS),Healthcare,406,NA,0.00045962224039773
+Privilege Misuse,Healthcare,347,NA,0.4352632096993215
+Lost and Stolen Assets,Healthcare,262,NA,0.03522900799313884
+System Intrusion,Information,495,APAC,0.10360105811219297
+Social Engineering,Information,295,APAC,0.06876010198965986
+Basic Web-API Attacks,Information,453,APAC,0.18116416156893755
+Miscellaneous Errors,Information,498,APAC,0.18084989204330326
+Denial of Service (DoS),Information,334,APAC,9.130212354038356e-05
+Privilege Misuse,Information,114,APAC,0.03452921832661012
+Lost and Stolen Assets,Information,338,APAC,0.010974259695538611
+System Intrusion,Information,284,EMEA,0.06311307844824361
+Social Engineering,Information,382,EMEA,0.09454093456806774
+Basic Web-API Attacks,Information,160,EMEA,0.06794165177193275
+Miscellaneous Errors,Information,221,EMEA,0.08521640656732009
+Denial of Service (DoS),Information,140,EMEA,4.06353944206362e-05
+Privilege Misuse,Information,91,EMEA,0.029266131515069745
+Lost and Stolen Assets,Information,340,EMEA,0.011721399869361632
+System Intrusion,Information,303,LAC,0.03283934777048416
+Social Engineering,Information,120,LAC,0.014484004283380536
+Basic Web-API Attacks,Information,410,LAC,0.08490843680638605
+Miscellaneous Errors,Information,425,LAC,0.07992280975096373
+Denial of Service (DoS),Information,160,LAC,2.2648909519319204e-05
+Privilege Misuse,Information,45,LAC,0.007058091946313557
+Lost and Stolen Assets,Information,355,LAC,0.005968700514083193
+System Intrusion,Information,54,NA,0.010256871746546235
+Social Engineering,Information,24,NA,0.005076774940938781
+Basic Web-API Attacks,Information,25,NA,0.009073529764856087
+Miscellaneous Errors,Information,250,NA,0.08239314735933792
+Denial of Service (DoS),Information,72,NA,1.7861958722506918e-05
+Privilege Misuse,Information,23,NA,0.0063222534883229905
+Lost and Stolen Assets,Information,116,NA,0.003418052234117828
+System Intrusion,Manufacturing,222,APAC,0.036813707850841815
+Social Engineering,Manufacturing,190,APAC,0.03508857183997841
+Basic Web-API Attacks,Manufacturing,414,APAC,0.13118132780217856
+Miscellaneous Errors,Manufacturing,250,APAC,0.0719327253112291
+Denial of Service (DoS),Manufacturing,336,APAC,7.277316848467976e-05
+Privilege Misuse,Manufacturing,373,APAC,0.08951345544311408
+Lost and Stolen Assets,Manufacturing,259,APAC,0.006662786420026
+System Intrusion,Manufacturing,44,EMEA,0.0077473164470027635
+Social Engineering,Manufacturing,71,EMEA,0.013922347576489488
+Basic Web-API Attacks,Manufacturing,393,EMEA,0.13222277382353892
+Miscellaneous Errors,Manufacturing,437,EMEA,0.13350882539276127
+Denial of Service (DoS),Manufacturing,141,EMEA,3.2425983056535645e-05
+Privilege Misuse,Manufacturing,242,EMEA,0.061664737696942626
+Lost and Stolen Assets,Manufacturing,452,EMEA,0.012346293434474994
+System Intrusion,Manufacturing,281,LAC,0.024129915955261063
+Social Engineering,Manufacturing,15,LAC,0.0014344857967464447
+Basic Web-API Attacks,Manufacturing,241,LAC,0.0395440936747342
+Miscellaneous Errors,Manufacturing,54,LAC,0.008045872907401299
+Denial of Service (DoS),Manufacturing,344,LAC,3.858187695636493e-05
+Privilege Misuse,Manufacturing,490,LAC,0.06089315451111543
+Lost and Stolen Assets,Manufacturing,64,LAC,0.0008525679532106709
+System Intrusion,Manufacturing,42,NA,0.006320741809683211
+Social Engineering,Manufacturing,435,NA,0.07290604197001156
+Basic Web-API Attacks,Manufacturing,17,NA,0.004888580553931137
+Miscellaneous Errors,Manufacturing,107,NA,0.027940389552268186
+Denial of Service (DoS),Manufacturing,328,NA,6.447153695996582e-05
+Privilege Misuse,Manufacturing,290,NA,0.06315964227060622
+Lost and Stolen Assets,Manufacturing,87,NA,0.0020311292180459485
+System Intrusion,Professional,96,APAC,0.033405244287248594
+Social Engineering,Professional,430,APAC,0.1666354423439696
+Basic Web-API Attacks,Professional,104,APAC,0.06914994716206749
+Miscellaneous Errors,Professional,402,APAC,0.24271655038749496
+Denial of Service (DoS),Professional,313,APAC,0.00014225357065540236
+Privilege Misuse,Professional,150,APAC,0.07553662586847057
+Lost and Stolen Assets,Professional,175,APAC,0.009446719246559534
+System Intrusion,Professional,365,EMEA,0.13485849709404307
+Social Engineering,Professional,399,EMEA,0.16417758037225877
+Basic Web-API Attacks,Professional,382,EMEA,0.2696894193410741
+Miscellaneous Errors,Professional,104,EMEA,0.06667280231697437
+Denial of Service (DoS),Professional,451,EMEA,0.00021763934620933474
+Privilege Misuse,Professional,267,EMEA,0.1427642985454792
+Lost and Stolen Assets,Professional,399,EMEA,0.022869564128810225
+System Intrusion,Professional,251,LAC,0.04522827694300111
+Social Engineering,Professional,354,LAC,0.0710387134373223
+Basic Web-API Attacks,Professional,223,LAC,0.07678144456477656
+Miscellaneous Errors,Professional,146,LAC,0.04564772059921929
+Denial of Service (DoS),Professional,36,LAC,8.472551977131658e-06
+Privilege Misuse,Professional,425,LAC,0.11082765773436162
+Lost and Stolen Assets,Professional,349,LAC,0.009755764072397925
+System Intrusion,Professional,328,NA,0.10358084171660059
+Social Engineering,Professional,441,NA,0.15509567445944572
+Basic Web-API Attacks,Professional,323,NA,0.1949051024746455
+Miscellaneous Errors,Professional,90,NA,0.0493148845310018
+Denial of Service (DoS),Professional,240,NA,9.899021182666146e-05
+Privilege Misuse,Professional,67,NA,0.03061986688228797
+Lost and Stolen Assets,Professional,369,NA,0.018077213991798523
+System Intrusion,Public Administration,475,APAC,0.09749972365238847
+Social Engineering,Public Administration,450,APAC,0.10286740709694583
+Basic Web-API Attacks,Public Administration,147,APAC,0.057655694013081966
+Miscellaneous Errors,Public Administration,396,APAC,0.14103759057581025
+Denial of Service (DoS),Public Administration,100,APAC,2.6809282735196783e-05
+Privilege Misuse,Public Administration,283,APAC,0.08406575429648487
+Lost and Stolen Assets,Public Administration,71,APAC,0.0022608287362501584
+System Intrusion,Public Administration,213,EMEA,0.046422808457093165
+Social Engineering,Public Administration,96,EMEA,0.023301213775649126
+Basic Web-API Attacks,Public Administration,203,EMEA,0.08454013545938442
+Miscellaneous Errors,Public Administration,371,EMEA,0.14029934250106832
+Denial of Service (DoS),Public Administration,430,EMEA,0.00012240402036409922
+Privilege Misuse,Public Administration,397,EMEA,0.1252175543877314
+Lost and Stolen Assets,Public Administration,124,EMEA,0.004192499631320034
+System Intrusion,Public Administration,477,LAC,0.05070152899974256
+Social Engineering,Public Administration,310,LAC,0.036696097025287276
+Basic Web-API Attacks,Public Administration,123,LAC,0.02498175145417108
+Miscellaneous Errors,Public Administration,100,LAC,0.018443043749012632
+Denial of Service (DoS),Public Administration,326,LAC,4.5258035344200486e-05
+Privilege Misuse,Public Administration,162,LAC,0.024919572948288754
+Lost and Stolen Assets,Public Administration,458,LAC,0.007552099378644151
+System Intrusion,Public Administration,95,NA,0.01769683304002548
+Social Engineering,Public Administration,137,NA,0.028421567054886392
+Basic Web-API Attacks,Public Administration,188,NA,0.06691829881315893
+Miscellaneous Errors,Public Administration,218,NA,0.07046255079287447
+Denial of Service (DoS),Public Administration,194,NA,4.7200771574875425e-05
+Privilege Misuse,Public Administration,496,NA,0.13371389146822446
+Lost and Stolen Assets,Public Administration,93,NA,0.002687536910992473
+System Intrusion,Retail,204,APAC,0.1115248546448913
+Social Engineering,Retail,72,APAC,0.043835856746131927
+Basic Web-API Attacks,Retail,367,APAC,0.38337400074734196
+Miscellaneous Errors,Retail,141,APAC,0.1337489958382381
+Denial of Service (DoS),Retail,459,APAC,0.000327740116482933
+Privilege Misuse,Retail,274,APAC,0.21677787999350534
+Lost and Stolen Assets,Retail,117,APAC,0.00992263236506679
+System Intrusion,Retail,82,EMEA,0.04759895112393146
+Social Engineering,Retail,422,EMEA,0.2728044721525685
+Basic Web-API Attacks,Retail,416,EMEA,0.4614152620382982
+Miscellaneous Errors,Retail,416,EMEA,0.4189930122477756
+Denial of Service (DoS),Retail,438,EMEA,0.00033207261388982357
+Privilege Misuse,Retail,316,EMEA,0.26545659324128074
+Lost and Stolen Assets,Retail,12,EMEA,0.0010805983928571738
+System Intrusion,Retail,179,LAC,0.05067426191083303
+Social Engineering,Retail,388,LAC,0.12232680436660645
+Basic Web-API Attacks,Retail,219,LAC,0.11846596867342919
+Miscellaneous Errors,Retail,175,LAC,0.08596117999620986
+Denial of Service (DoS),Retail,307,LAC,0.00011351367808998544
+Privilege Misuse,Retail,385,LAC,0.1577313548464937
+Lost and Stolen Assets,Retail,393,LAC,0.01725943171181523
+System Intrusion,Retail,381,NA,0.189029091595877
+Social Engineering,Retail,171,NA,0.09448335063108908
+Basic Web-API Attacks,Retail,482,NA,0.45694697239342413
+Miscellaneous Errors,Retail,73,NA,0.06284293365500442
+Denial of Service (DoS),Retail,396,NA,0.0002566104139606149
+Privilege Misuse,Retail,115,NA,0.0825704051226964
+Lost and Stolen Assets,Retail,300,NA,0.023090028401095024
